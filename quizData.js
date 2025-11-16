@@ -3,20 +3,20 @@ const quizData = [
     "question": "thấp",
     "answers": [
       {
-        "text": "中间",
+        "text": "比赛",
+        "correct": false
+      },
+      {
+        "text": "地图",
+        "correct": false
+      },
+      {
+        "text": "注意",
         "correct": false
       },
       {
         "text": "矮",
         "correct": true
-      },
-      {
-        "text": "会议",
-        "correct": false
-      },
-      {
-        "text": "简单",
-        "correct": false
       }
     ]
   },
@@ -24,19 +24,19 @@ const quizData = [
     "question": "yêu thích, thích",
     "answers": [
       {
-        "text": "灯",
-        "correct": false
-      },
-      {
         "text": "爱好",
         "correct": true
       },
       {
-        "text": "必须",
+        "text": "马",
         "correct": false
       },
       {
-        "text": "只",
+        "text": "月亮",
+        "correct": false
+      },
+      {
+        "text": "国家",
         "correct": false
       }
     ]
@@ -45,20 +45,20 @@ const quizData = [
     "question": "yên lặng",
     "answers": [
       {
-        "text": "如果",
+        "text": "结婚",
         "correct": false
       },
       {
-        "text": "迟到",
-        "correct": false
-      },
-      {
-        "text": "鞋",
+        "text": "突然",
         "correct": false
       },
       {
         "text": "安静",
         "correct": true
+      },
+      {
+        "text": "办公室",
+        "correct": false
       }
     ]
   },
@@ -66,7 +66,11 @@ const quizData = [
     "question": "cô, dì",
     "answers": [
       {
-        "text": "兴趣",
+        "text": "马上",
+        "correct": false
+      },
+      {
+        "text": "表演",
         "correct": false
       },
       {
@@ -74,11 +78,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "为",
-        "correct": false
-      },
-      {
-        "text": "熊猫",
+        "text": "游戏",
         "correct": false
       }
     ]
@@ -87,20 +87,20 @@ const quizData = [
     "question": "lấy, đem",
     "answers": [
       {
-        "text": "字典",
+        "text": "短",
+        "correct": false
+      },
+      {
+        "text": "打扫",
+        "correct": false
+      },
+      {
+        "text": "小心",
         "correct": false
       },
       {
         "text": "把",
         "correct": true
-      },
-      {
-        "text": "水平",
-        "correct": false
-      },
-      {
-        "text": "楼",
-        "correct": false
       }
     ]
   },
@@ -108,15 +108,15 @@ const quizData = [
     "question": "nửa",
     "answers": [
       {
-        "text": "表演",
+        "text": "把",
         "correct": false
       },
       {
-        "text": "害怕",
+        "text": "辆",
         "correct": false
       },
       {
-        "text": "照顾",
+        "text": "客人",
         "correct": false
       },
       {
@@ -129,19 +129,19 @@ const quizData = [
     "question": "lớp",
     "answers": [
       {
-        "text": "小心",
-        "correct": false
-      },
-      {
-        "text": "站",
-        "correct": false
-      },
-      {
         "text": "班",
         "correct": true
       },
       {
-        "text": "老",
+        "text": "奇怪",
+        "correct": false
+      },
+      {
+        "text": "检查",
+        "correct": false
+      },
+      {
+        "text": "辆",
         "correct": false
       }
     ]
@@ -150,19 +150,19 @@ const quizData = [
     "question": "chuyển đi. khiêng, dọn",
     "answers": [
       {
-        "text": "动物",
-        "correct": false
-      },
-      {
         "text": "搬",
         "correct": true
       },
       {
-        "text": "帽子",
+        "text": "关于",
         "correct": false
       },
       {
-        "text": "面包",
+        "text": "发现",
+        "correct": false
+      },
+      {
+        "text": "筷子",
         "correct": false
       }
     ]
@@ -171,11 +171,7 @@ const quizData = [
     "question": "biên pháp, cách",
     "answers": [
       {
-        "text": "放心",
-        "correct": false
-      },
-      {
-        "text": "关系",
+        "text": "害怕",
         "correct": false
       },
       {
@@ -183,7 +179,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "发烧",
+        "text": "盘子",
+        "correct": false
+      },
+      {
+        "text": "饿",
         "correct": false
       }
     ]
@@ -192,20 +192,20 @@ const quizData = [
     "question": "giúp đỡ",
     "answers": [
       {
-        "text": "刮风",
+        "text": "表演",
         "correct": false
       },
       {
-        "text": "只",
-        "correct": false
-      },
-      {
-        "text": "种",
+        "text": "认真",
         "correct": false
       },
       {
         "text": "帮忙",
         "correct": true
+      },
+      {
+        "text": "筷子",
+        "correct": false
       }
     ]
   },
@@ -213,7 +213,7 @@ const quizData = [
     "question": "văn phòng",
     "answers": [
       {
-        "text": "提高",
+        "text": "还是",
         "correct": false
       },
       {
@@ -221,11 +221,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "舒服",
+        "text": "鞋",
         "correct": false
       },
       {
-        "text": "新闻",
+        "text": "瘦",
         "correct": false
       }
     ]
@@ -234,15 +234,15 @@ const quizData = [
     "question": "no",
     "answers": [
       {
-        "text": "一定",
+        "text": "把",
         "correct": false
       },
       {
-        "text": "敢",
+        "text": "啤酒",
         "correct": false
       },
       {
-        "text": "短",
+        "text": "满意",
         "correct": false
       },
       {
@@ -255,20 +255,20 @@ const quizData = [
     "question": "bao, túi",
     "answers": [
       {
-        "text": "专业",
+        "text": "旧",
         "correct": false
       },
       {
-        "text": "要求",
+        "text": "相信",
+        "correct": false
+      },
+      {
+        "text": "拿",
         "correct": false
       },
       {
         "text": "包",
         "correct": true
-      },
-      {
-        "text": "祝",
-        "correct": false
       }
     ]
   },
@@ -276,15 +276,15 @@ const quizData = [
     "question": "bị, được",
     "answers": [
       {
-        "text": "一直",
+        "text": "公园",
         "correct": false
       },
       {
-        "text": "一会儿",
+        "text": "练习",
         "correct": false
       },
       {
-        "text": "相信",
+        "text": "拿",
         "correct": false
       },
       {
@@ -301,15 +301,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "举行",
+        "text": "地方",
         "correct": false
       },
       {
-        "text": "锻炼",
+        "text": "刮风",
         "correct": false
       },
       {
-        "text": "还是",
+        "text": "参加",
         "correct": false
       }
     ]
@@ -318,20 +318,20 @@ const quizData = [
     "question": "biến hóa, thay đổi",
     "answers": [
       {
-        "text": "宾馆",
+        "text": "关心",
         "correct": false
       },
       {
-        "text": "以前",
+        "text": "专业",
+        "correct": false
+      },
+      {
+        "text": "一样",
         "correct": false
       },
       {
         "text": "变化",
         "correct": true
-      },
-      {
-        "text": "容易",
-        "correct": false
       }
     ]
   },
@@ -343,15 +343,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "热情",
+        "text": "只",
         "correct": false
       },
       {
-        "text": "一直",
+        "text": "先",
         "correct": false
       },
       {
-        "text": "关系",
+        "text": "绿",
         "correct": false
       }
     ]
@@ -360,19 +360,19 @@ const quizData = [
     "question": "biểu diễn",
     "answers": [
       {
+        "text": "长(动）",
+        "correct": false
+      },
+      {
         "text": "表演",
         "correct": true
       },
       {
-        "text": "电子邮件",
+        "text": "努力",
         "correct": false
       },
       {
-        "text": "担心",
-        "correct": false
-      },
-      {
-        "text": "渴",
+        "text": "裤子",
         "correct": false
       }
     ]
@@ -381,19 +381,19 @@ const quizData = [
     "question": "người khác",
     "answers": [
       {
+        "text": "画",
+        "correct": false
+      },
+      {
         "text": "别人",
         "correct": true
       },
       {
-        "text": "饿",
+        "text": "过去",
         "correct": false
       },
       {
-        "text": "办法",
-        "correct": false
-      },
-      {
-        "text": "旧",
+        "text": "刷牙",
         "correct": false
       }
     ]
@@ -402,20 +402,20 @@ const quizData = [
     "question": "so với, tương đối",
     "answers": [
       {
-        "text": "鸟",
+        "text": "耳朵",
         "correct": false
       },
       {
-        "text": "一共",
+        "text": "节目",
+        "correct": false
+      },
+      {
+        "text": "离开",
         "correct": false
       },
       {
         "text": "比较",
         "correct": true
-      },
-      {
-        "text": "北京",
-        "correct": false
       }
     ]
   },
@@ -423,20 +423,20 @@ const quizData = [
     "question": "khách sạn",
     "answers": [
       {
-        "text": "变化",
+        "text": "厨房",
         "correct": false
       },
       {
-        "text": "解决",
-        "correct": false
-      },
-      {
-        "text": "以为",
+        "text": "眼镜",
         "correct": false
       },
       {
         "text": "宾馆",
         "correct": true
+      },
+      {
+        "text": "决定",
+        "correct": false
       }
     ]
   },
@@ -444,11 +444,7 @@ const quizData = [
     "question": "tủ lạnh",
     "answers": [
       {
-        "text": "着急",
-        "correct": false
-      },
-      {
-        "text": "一边",
+        "text": "借",
         "correct": false
       },
       {
@@ -456,7 +452,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "灯",
+        "text": "先",
+        "correct": false
+      },
+      {
+        "text": "可爱",
         "correct": false
       }
     ]
@@ -469,15 +469,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "葡萄",
+        "text": "参加",
         "correct": false
       },
       {
-        "text": "面包",
+        "text": "座(量）",
         "correct": false
       },
       {
-        "text": "楼",
+        "text": "还是",
         "correct": false
       }
     ]
@@ -486,19 +486,19 @@ const quizData = [
     "question": "phải, cần phải",
     "answers": [
       {
-        "text": "最近",
-        "correct": false
-      },
-      {
-        "text": "容易",
-        "correct": false
-      },
-      {
         "text": "必须",
         "correct": true
       },
       {
-        "text": "河",
+        "text": "接",
+        "correct": false
+      },
+      {
+        "text": "讲",
+        "correct": false
+      },
+      {
+        "text": "换",
         "correct": false
       }
     ]
@@ -507,7 +507,11 @@ const quizData = [
     "question": "mũi",
     "answers": [
       {
-        "text": "经过",
+        "text": "护照",
+        "correct": false
+      },
+      {
+        "text": "跟",
         "correct": false
       },
       {
@@ -515,11 +519,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "主要",
-        "correct": false
-      },
-      {
-        "text": "注意",
+        "text": "月亮",
         "correct": false
       }
     ]
@@ -528,20 +528,20 @@ const quizData = [
     "question": "mới",
     "answers": [
       {
-        "text": "相信",
-        "correct": false
-      },
-      {
-        "text": "方便",
-        "correct": false
-      },
-      {
-        "text": "文化",
-        "correct": false
-      },
-      {
         "text": "才",
         "correct": true
+      },
+      {
+        "text": "影响",
+        "correct": false
+      },
+      {
+        "text": "认真",
+        "correct": false
+      },
+      {
+        "text": "骑",
+        "correct": false
       }
     ]
   },
@@ -549,20 +549,20 @@ const quizData = [
     "question": "thực đơn",
     "answers": [
       {
-        "text": "黑板",
-        "correct": false
-      },
-      {
-        "text": "新闻",
-        "correct": false
-      },
-      {
-        "text": "复习",
-        "correct": false
-      },
-      {
         "text": "菜单",
         "correct": true
+      },
+      {
+        "text": "衬衫",
+        "correct": false
+      },
+      {
+        "text": "解决",
+        "correct": false
+      },
+      {
+        "text": "街道",
+        "correct": false
       }
     ]
   },
@@ -570,20 +570,20 @@ const quizData = [
     "question": "tham gia",
     "answers": [
       {
+        "text": "长(动）",
+        "correct": false
+      },
+      {
+        "text": "地铁",
+        "correct": false
+      },
+      {
+        "text": "过去",
+        "correct": false
+      },
+      {
         "text": "参加",
         "correct": true
-      },
-      {
-        "text": "叔叔",
-        "correct": false
-      },
-      {
-        "text": "小心",
-        "correct": false
-      },
-      {
-        "text": "多么",
-        "correct": false
       }
     ]
   },
@@ -591,11 +591,11 @@ const quizData = [
     "question": "cỏ",
     "answers": [
       {
-        "text": "只(量）",
+        "text": "宾馆",
         "correct": false
       },
       {
-        "text": "口",
+        "text": "遇到",
         "correct": false
       },
       {
@@ -603,7 +603,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "声音",
+        "text": "爷爷",
         "correct": false
       }
     ]
@@ -612,19 +612,19 @@ const quizData = [
     "question": "tầng",
     "answers": [
       {
+        "text": "动物",
+        "correct": false
+      },
+      {
+        "text": "年轻",
+        "correct": false
+      },
+      {
         "text": "层",
         "correct": true
       },
       {
-        "text": "筷子",
-        "correct": false
-      },
-      {
-        "text": "包",
-        "correct": false
-      },
-      {
-        "text": "宾馆",
+        "text": "而且",
         "correct": false
       }
     ]
@@ -633,19 +633,19 @@ const quizData = [
     "question": "kém",
     "answers": [
       {
+        "text": "铅笔",
+        "correct": false
+      },
+      {
         "text": "差",
         "correct": true
       },
       {
-        "text": "最近",
+        "text": "明白",
         "correct": false
       },
       {
-        "text": "河",
-        "correct": false
-      },
-      {
-        "text": "愿意",
+        "text": "重要",
         "correct": false
       }
     ]
@@ -654,20 +654,20 @@ const quizData = [
     "question": "siêu thị",
     "answers": [
       {
-        "text": "机会",
+        "text": "叔叔",
         "correct": false
       },
       {
-        "text": "搬",
+        "text": "包",
+        "correct": false
+      },
+      {
+        "text": "电子邮件",
         "correct": false
       },
       {
         "text": "超市",
         "correct": true
-      },
-      {
-        "text": "口",
-        "correct": false
       }
     ]
   },
@@ -675,20 +675,20 @@ const quizData = [
     "question": "thành tích",
     "answers": [
       {
-        "text": "衬衫",
-        "correct": false
-      },
-      {
-        "text": "同意",
-        "correct": false
-      },
-      {
-        "text": "以前",
-        "correct": false
-      },
-      {
         "text": "成绩",
         "correct": true
+      },
+      {
+        "text": "世界",
+        "correct": false
+      },
+      {
+        "text": "经理",
+        "correct": false
+      },
+      {
+        "text": "虽然",
+        "correct": false
       }
     ]
   },
@@ -696,11 +696,11 @@ const quizData = [
     "question": "thành phố",
     "answers": [
       {
-        "text": "河",
+        "text": "热情",
         "correct": false
       },
       {
-        "text": "兴趣",
+        "text": "渴",
         "correct": false
       },
       {
@@ -708,7 +708,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "洗手间",
+        "text": "脚",
         "correct": false
       }
     ]
@@ -717,20 +717,20 @@ const quizData = [
     "question": "áo sơ mi",
     "answers": [
       {
-        "text": "放",
+        "text": "为了",
+        "correct": false
+      },
+      {
+        "text": "发现",
+        "correct": false
+      },
+      {
+        "text": "久",
         "correct": false
       },
       {
         "text": "衬衫",
         "correct": true
-      },
-      {
-        "text": "完成",
-        "correct": false
-      },
-      {
-        "text": "出差",
-        "correct": false
       }
     ]
   },
@@ -738,19 +738,19 @@ const quizData = [
     "question": "đến muộn",
     "answers": [
       {
+        "text": "帮忙",
+        "correct": false
+      },
+      {
+        "text": "教",
+        "correct": false
+      },
+      {
         "text": "迟到",
         "correct": true
       },
       {
-        "text": "角",
-        "correct": false
-      },
-      {
-        "text": "讲",
-        "correct": false
-      },
-      {
-        "text": "新鲜",
+        "text": "更",
         "correct": false
       }
     ]
@@ -759,19 +759,19 @@ const quizData = [
     "question": "công tác",
     "answers": [
       {
+        "text": "瘦",
+        "correct": false
+      },
+      {
+        "text": "借",
+        "correct": false
+      },
+      {
         "text": "出差",
         "correct": true
       },
       {
-        "text": "经常",
-        "correct": false
-      },
-      {
-        "text": "还（动词）",
-        "correct": false
-      },
-      {
-        "text": "音乐",
+        "text": "表演",
         "correct": false
       }
     ]
@@ -780,20 +780,20 @@ const quizData = [
     "question": "bếp",
     "answers": [
       {
-        "text": "记得",
+        "text": "胖",
         "correct": false
       },
       {
-        "text": "迟到",
+        "text": "鼻子",
+        "correct": false
+      },
+      {
+        "text": "小心",
         "correct": false
       },
       {
         "text": "厨房",
         "correct": true
-      },
-      {
-        "text": "一样",
-        "correct": false
       }
     ]
   },
@@ -801,20 +801,20 @@ const quizData = [
     "question": "ngoài ra, trừ ra",
     "answers": [
       {
-        "text": "渴",
+        "text": "记得",
         "correct": false
       },
       {
-        "text": "兴趣",
+        "text": "阿姨",
+        "correct": false
+      },
+      {
+        "text": "楼",
         "correct": false
       },
       {
         "text": "除了",
         "correct": true
-      },
-      {
-        "text": "热情",
-        "correct": false
       }
     ]
   },
@@ -822,20 +822,20 @@ const quizData = [
     "question": "mùa xuân",
     "answers": [
       {
-        "text": "出差",
+        "text": "发烧",
+        "correct": false
+      },
+      {
+        "text": "节目",
+        "correct": false
+      },
+      {
+        "text": "黑板",
         "correct": false
       },
       {
         "text": "春",
         "correct": true
-      },
-      {
-        "text": "被",
-        "correct": false
-      },
-      {
-        "text": "一直",
-        "correct": false
       }
     ]
   },
@@ -843,19 +843,19 @@ const quizData = [
     "question": "từ ngữ",
     "answers": [
       {
+        "text": "旧",
+        "correct": false
+      },
+      {
         "text": "词语",
         "correct": true
       },
       {
-        "text": "举行",
+        "text": "层",
         "correct": false
       },
       {
-        "text": "同事",
-        "correct": false
-      },
-      {
-        "text": "办公室",
+        "text": "照片",
         "correct": false
       }
     ]
@@ -864,20 +864,20 @@ const quizData = [
     "question": "thông minh",
     "answers": [
       {
-        "text": "秋",
-        "correct": false
-      },
-      {
-        "text": "解决",
-        "correct": false
-      },
-      {
-        "text": "香蕉",
-        "correct": false
-      },
-      {
         "text": "聪明",
         "correct": true
+      },
+      {
+        "text": "像",
+        "correct": false
+      },
+      {
+        "text": "带",
+        "correct": false
+      },
+      {
+        "text": "一会儿",
+        "correct": false
       }
     ]
   },
@@ -885,19 +885,19 @@ const quizData = [
     "question": "đem, mang",
     "answers": [
       {
-        "text": "只(量）",
-        "correct": false
-      },
-      {
         "text": "带",
         "correct": true
       },
       {
-        "text": "包",
+        "text": "万",
         "correct": false
       },
       {
-        "text": "担心",
+        "text": "米",
+        "correct": false
+      },
+      {
+        "text": "眼镜",
         "correct": false
       }
     ]
@@ -906,19 +906,19 @@ const quizData = [
     "question": "bánh ga tô",
     "answers": [
       {
+        "text": "体育",
+        "correct": false
+      },
+      {
+        "text": "数学",
+        "correct": false
+      },
+      {
         "text": "蛋糕",
         "correct": true
       },
       {
-        "text": "办法",
-        "correct": false
-      },
-      {
-        "text": "锻炼",
-        "correct": false
-      },
-      {
-        "text": "经过",
+        "text": "特别",
         "correct": false
       }
     ]
@@ -927,7 +927,11 @@ const quizData = [
     "question": "đương nhiên",
     "answers": [
       {
-        "text": "提高",
+        "text": "其实",
+        "correct": false
+      },
+      {
+        "text": "坏",
         "correct": false
       },
       {
@@ -935,11 +939,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "段",
-        "correct": false
-      },
-      {
-        "text": "口",
+        "text": "提高",
         "correct": false
       }
     ]
@@ -948,19 +948,19 @@ const quizData = [
     "question": "lo lắng",
     "answers": [
       {
+        "text": "比较",
+        "correct": false
+      },
+      {
         "text": "担心",
         "correct": true
       },
       {
-        "text": "鞋",
+        "text": "空调",
         "correct": false
       },
       {
-        "text": "接",
-        "correct": false
-      },
-      {
-        "text": "放",
+        "text": "年轻",
         "correct": false
       }
     ]
@@ -969,15 +969,15 @@ const quizData = [
     "question": "quyét, quyét dọn",
     "answers": [
       {
-        "text": "只",
+        "text": "万",
         "correct": false
       },
       {
-        "text": "辆",
+        "text": "东",
         "correct": false
       },
       {
-        "text": "发现",
+        "text": "有名",
         "correct": false
       },
       {
@@ -994,15 +994,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "提高",
+        "text": "放",
         "correct": false
       },
       {
-        "text": "城市",
+        "text": "重要",
         "correct": false
       },
       {
-        "text": "应该",
+        "text": "用",
         "correct": false
       }
     ]
@@ -1011,20 +1011,20 @@ const quizData = [
     "question": "Trợ từ kết cấu",
     "answers": [
       {
-        "text": "一边",
+        "text": "突然",
+        "correct": false
+      },
+      {
+        "text": "根据",
+        "correct": false
+      },
+      {
+        "text": "年轻",
         "correct": false
       },
       {
         "text": "地",
         "correct": true
-      },
-      {
-        "text": "西",
-        "correct": false
-      },
-      {
-        "text": "举行",
-        "correct": false
       }
     ]
   },
@@ -1032,7 +1032,11 @@ const quizData = [
     "question": "đèn",
     "answers": [
       {
-        "text": "着急",
+        "text": "拿",
+        "correct": false
+      },
+      {
+        "text": "使",
         "correct": false
       },
       {
@@ -1040,11 +1044,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "树",
-        "correct": false
-      },
-      {
-        "text": "冰箱",
+        "text": "别人",
         "correct": false
       }
     ]
@@ -1053,20 +1053,20 @@ const quizData = [
     "question": "thấp",
     "answers": [
       {
-        "text": "动物",
-        "correct": false
-      },
-      {
-        "text": "其实",
-        "correct": false
-      },
-      {
-        "text": "照相机",
+        "text": "感冒",
         "correct": false
       },
       {
         "text": "低",
         "correct": true
+      },
+      {
+        "text": "多么",
+        "correct": false
+      },
+      {
+        "text": "绿",
+        "correct": false
       }
     ]
   },
@@ -1074,11 +1074,11 @@ const quizData = [
     "question": "thang máy",
     "answers": [
       {
-        "text": "注意",
+        "text": "西",
         "correct": false
       },
       {
-        "text": "帽子",
+        "text": "更",
         "correct": false
       },
       {
@@ -1086,7 +1086,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "信",
+        "text": "还（动词）",
         "correct": false
       }
     ]
@@ -1095,7 +1095,7 @@ const quizData = [
     "question": "e-mail",
     "answers": [
       {
-        "text": "忘记",
+        "text": "骑",
         "correct": false
       },
       {
@@ -1103,11 +1103,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "街道",
+        "text": "为了",
         "correct": false
       },
       {
-        "text": "树",
+        "text": "结婚",
         "correct": false
       }
     ]
@@ -1116,19 +1116,19 @@ const quizData = [
     "question": "địa phương",
     "answers": [
       {
+        "text": "司机",
+        "correct": false
+      },
+      {
+        "text": "使",
+        "correct": false
+      },
+      {
         "text": "地方",
         "correct": true
       },
       {
-        "text": "虽然",
-        "correct": false
-      },
-      {
-        "text": "刚才",
-        "correct": false
-      },
-      {
-        "text": "专业",
+        "text": "厨房",
         "correct": false
       }
     ]
@@ -1137,19 +1137,19 @@ const quizData = [
     "question": "xe điện ngầm",
     "answers": [
       {
+        "text": "离开",
+        "correct": false
+      },
+      {
         "text": "地铁",
         "correct": true
       },
       {
-        "text": "着急",
+        "text": "地方",
         "correct": false
       },
       {
-        "text": "敢",
-        "correct": false
-      },
-      {
-        "text": "极",
+        "text": "办公室",
         "correct": false
       }
     ]
@@ -1158,11 +1158,7 @@ const quizData = [
     "question": "bản đồ",
     "answers": [
       {
-        "text": "必须",
-        "correct": false
-      },
-      {
-        "text": "关",
+        "text": "一共",
         "correct": false
       },
       {
@@ -1170,7 +1166,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "努力",
+        "text": "同事",
+        "correct": false
+      },
+      {
+        "text": "结束",
         "correct": false
       }
     ]
@@ -1179,20 +1179,20 @@ const quizData = [
     "question": "phía đông",
     "answers": [
       {
-        "text": "见面",
+        "text": "照相机",
+        "correct": false
+      },
+      {
+        "text": "月亮",
+        "correct": false
+      },
+      {
+        "text": "脸",
         "correct": false
       },
       {
         "text": "东",
         "correct": true
-      },
-      {
-        "text": "香蕉",
-        "correct": false
-      },
-      {
-        "text": "照顾",
-        "correct": false
       }
     ]
   },
@@ -1200,19 +1200,19 @@ const quizData = [
     "question": "động vật",
     "answers": [
       {
+        "text": "音乐",
+        "correct": false
+      },
+      {
         "text": "动物",
         "correct": true
       },
       {
-        "text": "使",
+        "text": "衬衫",
         "correct": false
       },
       {
-        "text": "打扫",
-        "correct": false
-      },
-      {
-        "text": "东",
+        "text": "努力",
         "correct": false
       }
     ]
@@ -1221,20 +1221,20 @@ const quizData = [
     "question": "đoạn",
     "answers": [
       {
+        "text": "爱好",
+        "correct": false
+      },
+      {
+        "text": "突然",
+        "correct": false
+      },
+      {
+        "text": "记得",
+        "correct": false
+      },
+      {
         "text": "段",
         "correct": true
-      },
-      {
-        "text": "北京",
-        "correct": false
-      },
-      {
-        "text": "办公室",
-        "correct": false
-      },
-      {
-        "text": "爷爷",
-        "correct": false
       }
     ]
   },
@@ -1242,19 +1242,19 @@ const quizData = [
     "question": "ngắn",
     "answers": [
       {
+        "text": "耳朵",
+        "correct": false
+      },
+      {
         "text": "短",
         "correct": true
       },
       {
-        "text": "一般",
+        "text": "帮忙",
         "correct": false
       },
       {
-        "text": "电子邮件",
-        "correct": false
-      },
-      {
-        "text": "发烧",
+        "text": "以为",
         "correct": false
       }
     ]
@@ -1263,7 +1263,11 @@ const quizData = [
     "question": "luyện tập",
     "answers": [
       {
-        "text": "其实",
+        "text": "短",
+        "correct": false
+      },
+      {
+        "text": "环境",
         "correct": false
       },
       {
@@ -1271,11 +1275,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "水平",
-        "correct": false
-      },
-      {
-        "text": "完成",
+        "text": "草",
         "correct": false
       }
     ]
@@ -1284,20 +1284,20 @@ const quizData = [
     "question": "đối với",
     "answers": [
       {
+        "text": "街道",
+        "correct": false
+      },
+      {
+        "text": "害怕",
+        "correct": false
+      },
+      {
+        "text": "舒服",
+        "correct": false
+      },
+      {
         "text": "对(介词）",
         "correct": true
-      },
-      {
-        "text": "饱",
-        "correct": false
-      },
-      {
-        "text": "故事",
-        "correct": false
-      },
-      {
-        "text": "节目",
-        "correct": false
       }
     ]
   },
@@ -1305,7 +1305,7 @@ const quizData = [
     "question": "bao nhiêu, biết bao",
     "answers": [
       {
-        "text": "一般",
+        "text": "迟到",
         "correct": false
       },
       {
@@ -1313,11 +1313,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "图书馆",
+        "text": "地",
         "correct": false
       },
       {
-        "text": "环境",
+        "text": "花",
         "correct": false
       }
     ]
@@ -1326,20 +1326,20 @@ const quizData = [
     "question": "đói",
     "answers": [
       {
-        "text": "动物",
+        "text": "饿",
+        "correct": true
+      },
+      {
+        "text": "敢",
         "correct": false
       },
       {
-        "text": "检查",
+        "text": "裤子",
         "correct": false
       },
       {
         "text": "街道",
         "correct": false
-      },
-      {
-        "text": "饿",
-        "correct": true
       }
     ]
   },
@@ -1347,20 +1347,20 @@ const quizData = [
     "question": "tai, lỗ tai",
     "answers": [
       {
-        "text": "秋",
-        "correct": false
-      },
-      {
-        "text": "参加",
-        "correct": false
-      },
-      {
-        "text": "复习",
-        "correct": false
-      },
-      {
         "text": "耳朵",
         "correct": true
+      },
+      {
+        "text": "结婚",
+        "correct": false
+      },
+      {
+        "text": "必须",
+        "correct": false
+      },
+      {
+        "text": "超市",
+        "correct": false
       }
     ]
   },
@@ -1368,15 +1368,15 @@ const quizData = [
     "question": "mà còn. hơn nữa",
     "answers": [
       {
-        "text": "面条",
+        "text": "结束",
         "correct": false
       },
       {
-        "text": "街道",
+        "text": "花园",
         "correct": false
       },
       {
-        "text": "瘦",
+        "text": "老",
         "correct": false
       },
       {
@@ -1389,19 +1389,19 @@ const quizData = [
     "question": "tha, thả, để, đặt",
     "answers": [
       {
-        "text": "还（动词）",
-        "correct": false
-      },
-      {
         "text": "放",
         "correct": true
       },
       {
-        "text": "选择",
+        "text": "周末",
         "correct": false
       },
       {
-        "text": "文化",
+        "text": "叔叔",
+        "correct": false
+      },
+      {
+        "text": "先",
         "correct": false
       }
     ]
@@ -1410,20 +1410,20 @@ const quizData = [
     "question": "thuận tiện, tiện lợi",
     "answers": [
       {
-        "text": "帽子",
-        "correct": false
-      },
-      {
-        "text": "关",
-        "correct": false
-      },
-      {
-        "text": "洗手间",
-        "correct": false
-      },
-      {
         "text": "方便",
         "correct": true
+      },
+      {
+        "text": "复习",
+        "correct": false
+      },
+      {
+        "text": "马",
+        "correct": false
+      },
+      {
+        "text": "有名",
+        "correct": false
       }
     ]
   },
@@ -1435,15 +1435,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "努力",
+        "text": "遇到",
         "correct": false
       },
       {
-        "text": "地图",
+        "text": "锻炼",
         "correct": false
       },
       {
-        "text": "果汁",
+        "text": "感冒",
         "correct": false
       }
     ]
@@ -1452,15 +1452,15 @@ const quizData = [
     "question": "sốt",
     "answers": [
       {
-        "text": "句子",
+        "text": "对(介词）",
         "correct": false
       },
       {
-        "text": "东",
+        "text": "更",
         "correct": false
       },
       {
-        "text": "座(量）",
+        "text": "兴趣",
         "correct": false
       },
       {
@@ -1473,11 +1473,7 @@ const quizData = [
     "question": "phát hiện",
     "answers": [
       {
-        "text": "着急",
-        "correct": false
-      },
-      {
-        "text": "低",
+        "text": "字典",
         "correct": false
       },
       {
@@ -1485,7 +1481,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "可爱",
+        "text": "国家",
+        "correct": false
+      },
+      {
+        "text": "影响",
         "correct": false
       }
     ]
@@ -1494,20 +1494,20 @@ const quizData = [
     "question": "phút, xu",
     "answers": [
       {
-        "text": "极",
-        "correct": false
-      },
-      {
-        "text": "一直",
-        "correct": false
-      },
-      {
-        "text": "脸",
-        "correct": false
-      },
-      {
         "text": "分",
         "correct": true
+      },
+      {
+        "text": "解决",
+        "correct": false
+      },
+      {
+        "text": "锻炼",
+        "correct": false
+      },
+      {
+        "text": "办公室",
+        "correct": false
       }
     ]
   },
@@ -1515,15 +1515,15 @@ const quizData = [
     "question": "gần, lân cận",
     "answers": [
       {
-        "text": "动物",
+        "text": "过去",
         "correct": false
       },
       {
-        "text": "电子邮件",
+        "text": "搬",
         "correct": false
       },
       {
-        "text": "干净",
+        "text": "菜单",
         "correct": false
       },
       {
@@ -1536,11 +1536,11 @@ const quizData = [
     "question": "ôn tập",
     "answers": [
       {
-        "text": "饱",
+        "text": "腿",
         "correct": false
       },
       {
-        "text": "一直",
+        "text": "新闻",
         "correct": false
       },
       {
@@ -1548,7 +1548,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "矮",
+        "text": "经理",
         "correct": false
       }
     ]
@@ -1557,7 +1557,7 @@ const quizData = [
     "question": "làm",
     "answers": [
       {
-        "text": "节日",
+        "text": "专门",
         "correct": false
       },
       {
@@ -1565,11 +1565,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "如果",
+        "text": "别人",
         "correct": false
       },
       {
-        "text": "段",
+        "text": "才",
         "correct": false
       }
     ]
@@ -1578,20 +1578,20 @@ const quizData = [
     "question": "vừa mới",
     "answers": [
       {
+        "text": "还（动词）",
+        "correct": false
+      },
+      {
+        "text": "甜",
+        "correct": false
+      },
+      {
+        "text": "害怕",
+        "correct": false
+      },
+      {
         "text": "刚才",
         "correct": true
-      },
-      {
-        "text": "同意",
-        "correct": false
-      },
-      {
-        "text": "照片",
-        "correct": false
-      },
-      {
-        "text": "万",
-        "correct": false
       }
     ]
   },
@@ -1599,15 +1599,57 @@ const quizData = [
     "question": "sạch sẽ",
     "answers": [
       {
-        "text": "作用",
+        "text": "同意",
         "correct": false
       },
       {
-        "text": "万",
+        "text": "蓝",
+        "correct": false
+      },
+      {
+        "text": "影响",
         "correct": false
       },
       {
         "text": "干净",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "bị cảm",
+    "answers": [
+      {
+        "text": "面条",
+        "correct": false
+      },
+      {
+        "text": "以后",
+        "correct": false
+      },
+      {
+        "text": "感冒",
+        "correct": true
+      },
+      {
+        "text": "音乐",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "cùng, với, theo",
+    "answers": [
+      {
+        "text": "马",
+        "correct": false
+      },
+      {
+        "text": "应该",
+        "correct": false
+      },
+      {
+        "text": "跟",
         "correct": true
       },
       {
@@ -1617,56 +1659,14 @@ const quizData = [
     ]
   },
   {
-    "question": "bị cảm",
-    "answers": [
-      {
-        "text": "锻炼",
-        "correct": false
-      },
-      {
-        "text": "字典",
-        "correct": false
-      },
-      {
-        "text": "感冒",
-        "correct": true
-      },
-      {
-        "text": "班",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "cùng, với, theo",
-    "answers": [
-      {
-        "text": "蓝",
-        "correct": false
-      },
-      {
-        "text": "草",
-        "correct": false
-      },
-      {
-        "text": "洗手间",
-        "correct": false
-      },
-      {
-        "text": "跟",
-        "correct": true
-      }
-    ]
-  },
-  {
     "question": "càng, hơn",
     "answers": [
       {
-        "text": "同事",
+        "text": "害怕",
         "correct": false
       },
       {
-        "text": "信",
+        "text": "阿姨",
         "correct": false
       },
       {
@@ -1674,7 +1674,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "害怕",
+        "text": "放",
         "correct": false
       }
     ]
@@ -1683,19 +1683,19 @@ const quizData = [
     "question": "căn cứ",
     "answers": [
       {
+        "text": "一共",
+        "correct": false
+      },
+      {
+        "text": "放心",
+        "correct": false
+      },
+      {
         "text": "根据",
         "correct": true
       },
       {
-        "text": "迟到",
-        "correct": false
-      },
-      {
-        "text": "鼻子",
-        "correct": false
-      },
-      {
-        "text": "以前",
+        "text": "解决",
         "correct": false
       }
     ]
@@ -1704,11 +1704,7 @@ const quizData = [
     "question": "công viên",
     "answers": [
       {
-        "text": "打扫",
-        "correct": false
-      },
-      {
-        "text": "盘子",
+        "text": "鞋",
         "correct": false
       },
       {
@@ -1716,7 +1712,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "普通话",
+        "text": "忘记",
+        "correct": false
+      },
+      {
+        "text": "举行",
         "correct": false
       }
     ]
@@ -1725,15 +1725,15 @@ const quizData = [
     "question": "gió thổi",
     "answers": [
       {
-        "text": "然后",
+        "text": "舒服",
         "correct": false
       },
       {
-        "text": "公园",
+        "text": "城市",
         "correct": false
       },
       {
-        "text": "辆",
+        "text": "根据",
         "correct": false
       },
       {
@@ -1746,20 +1746,20 @@ const quizData = [
     "question": "đóng",
     "answers": [
       {
-        "text": "铅笔",
+        "text": "万",
         "correct": false
       },
       {
-        "text": "包",
+        "text": "地",
+        "correct": false
+      },
+      {
+        "text": "满意",
         "correct": false
       },
       {
         "text": "关",
         "correct": true
-      },
-      {
-        "text": "换",
-        "correct": false
       }
     ]
   },
@@ -1767,19 +1767,19 @@ const quizData = [
     "question": "quan hệ",
     "answers": [
       {
+        "text": "菜单",
+        "correct": false
+      },
+      {
         "text": "关系",
         "correct": true
       },
       {
-        "text": "夏",
+        "text": "还是",
         "correct": false
       },
       {
-        "text": "为",
-        "correct": false
-      },
-      {
-        "text": "脚",
+        "text": "环境",
         "correct": false
       }
     ]
@@ -1788,11 +1788,7 @@ const quizData = [
     "question": "quan tâm",
     "answers": [
       {
-        "text": "迟到",
-        "correct": false
-      },
-      {
-        "text": "出差",
+        "text": "脚",
         "correct": false
       },
       {
@@ -1800,7 +1796,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "马上",
+        "text": "相同",
+        "correct": false
+      },
+      {
+        "text": "长(动）",
         "correct": false
       }
     ]
@@ -1809,20 +1809,20 @@ const quizData = [
     "question": "về, liên quan tới",
     "answers": [
       {
-        "text": "可爱",
+        "text": "关心",
         "correct": false
       },
       {
-        "text": "明白",
+        "text": "然后",
+        "correct": false
+      },
+      {
+        "text": "灯",
         "correct": false
       },
       {
         "text": "关于",
         "correct": true
-      },
-      {
-        "text": "宾馆",
-        "correct": false
       }
     ]
   },
@@ -1830,11 +1830,7 @@ const quizData = [
     "question": "đi qua, đón (tết)",
     "answers": [
       {
-        "text": "然后",
-        "correct": false
-      },
-      {
-        "text": "照片",
+        "text": "邻居",
         "correct": false
       },
       {
@@ -1842,7 +1838,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "自然",
+        "text": "辆",
+        "correct": false
+      },
+      {
+        "text": "洗澡",
         "correct": false
       }
     ]
@@ -1851,20 +1851,20 @@ const quizData = [
     "question": "quốc gia",
     "answers": [
       {
+        "text": "拿",
+        "correct": false
+      },
+      {
+        "text": "普通话",
+        "correct": false
+      },
+      {
+        "text": "专业",
+        "correct": false
+      },
+      {
         "text": "国家",
         "correct": true
-      },
-      {
-        "text": "北京",
-        "correct": false
-      },
-      {
-        "text": "总是",
-        "correct": false
-      },
-      {
-        "text": "花园",
-        "correct": false
       }
     ]
   },
@@ -1872,19 +1872,19 @@ const quizData = [
     "question": "đã qua,trước đây",
     "answers": [
       {
+        "text": "体育",
+        "correct": false
+      },
+      {
+        "text": "糖",
+        "correct": false
+      },
+      {
         "text": "过去",
         "correct": true
       },
       {
-        "text": "菜单",
-        "correct": false
-      },
-      {
-        "text": "担心",
-        "correct": false
-      },
-      {
-        "text": "锻炼",
+        "text": "河",
         "correct": false
       }
     ]
@@ -1893,7 +1893,7 @@ const quizData = [
     "question": "nước ép",
     "answers": [
       {
-        "text": "作用",
+        "text": "先",
         "correct": false
       },
       {
@@ -1901,11 +1901,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "练习",
+        "text": "一定",
         "correct": false
       },
       {
-        "text": "北京",
+        "text": "矮",
         "correct": false
       }
     ]
@@ -1918,15 +1918,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "结束",
+        "text": "楼",
         "correct": false
       },
       {
-        "text": "照片",
+        "text": "矮",
         "correct": false
       },
       {
-        "text": "司机",
+        "text": "腿",
         "correct": false
       }
     ]
@@ -1935,19 +1935,19 @@ const quizData = [
     "question": "sợ",
     "answers": [
       {
-        "text": "黑板",
-        "correct": false
-      },
-      {
-        "text": "教",
-        "correct": false
-      },
-      {
         "text": "害怕",
         "correct": true
       },
       {
-        "text": "街道",
+        "text": "发烧",
+        "correct": false
+      },
+      {
+        "text": "裙子",
+        "correct": false
+      },
+      {
+        "text": "方便",
         "correct": false
       }
     ]
@@ -1956,11 +1956,7 @@ const quizData = [
     "question": "hay là",
     "answers": [
       {
-        "text": "米",
-        "correct": false
-      },
-      {
-        "text": "灯",
+        "text": "带",
         "correct": false
       },
       {
@@ -1968,7 +1964,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "其他",
+        "text": "盘子",
+        "correct": false
+      },
+      {
+        "text": "迟到",
         "correct": false
       }
     ]
@@ -1977,20 +1977,20 @@ const quizData = [
     "question": "sông, hà",
     "answers": [
       {
-        "text": "认真",
+        "text": "以前",
         "correct": false
       },
       {
-        "text": "要求",
+        "text": "发烧",
+        "correct": false
+      },
+      {
+        "text": "角",
         "correct": false
       },
       {
         "text": "河",
         "correct": true
-      },
-      {
-        "text": "表演",
-        "correct": false
       }
     ]
   },
@@ -1998,15 +1998,15 @@ const quizData = [
     "question": "bảng đen",
     "answers": [
       {
-        "text": "表演",
+        "text": "爬山",
         "correct": false
       },
       {
-        "text": "选择",
+        "text": "把",
         "correct": false
       },
       {
-        "text": "刮风",
+        "text": "办公室",
         "correct": false
       },
       {
@@ -2019,20 +2019,20 @@ const quizData = [
     "question": "vẽ, họa, bức tranh",
     "answers": [
       {
-        "text": "角",
+        "text": "满意",
         "correct": false
       },
       {
-        "text": "秋",
+        "text": "字典",
+        "correct": false
+      },
+      {
+        "text": "旧",
         "correct": false
       },
       {
         "text": "画",
         "correct": true
-      },
-      {
-        "text": "中间",
-        "correct": false
       }
     ]
   },
@@ -2040,7 +2040,7 @@ const quizData = [
     "question": "hoa, tiêu tiền, bông hoa",
     "answers": [
       {
-        "text": "爱好",
+        "text": "饱",
         "correct": false
       },
       {
@@ -2048,11 +2048,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "脚",
+        "text": "了解",
         "correct": false
       },
       {
-        "text": "相信",
+        "text": "生气",
         "correct": false
       }
     ]
@@ -2061,20 +2061,20 @@ const quizData = [
     "question": "xấu, hỏng",
     "answers": [
       {
-        "text": "同意",
-        "correct": false
-      },
-      {
-        "text": "双",
-        "correct": false
-      },
-      {
-        "text": "经过",
-        "correct": false
-      },
-      {
         "text": "坏",
         "correct": true
+      },
+      {
+        "text": "花",
+        "correct": false
+      },
+      {
+        "text": "马上",
+        "correct": false
+      },
+      {
+        "text": "着急",
+        "correct": false
       }
     ]
   },
@@ -2082,20 +2082,20 @@ const quizData = [
     "question": "hoàn, trả về",
     "answers": [
       {
+        "text": "总是",
+        "correct": false
+      },
+      {
+        "text": "米",
+        "correct": false
+      },
+      {
+        "text": "厨房",
+        "correct": false
+      },
+      {
         "text": "还（动词）",
         "correct": true
-      },
-      {
-        "text": "感冒",
-        "correct": false
-      },
-      {
-        "text": "注意",
-        "correct": false
-      },
-      {
-        "text": "拿",
-        "correct": false
       }
     ]
   },
@@ -2103,20 +2103,20 @@ const quizData = [
     "question": "thay đổi, đổi, trao đổi",
     "answers": [
       {
-        "text": "一边",
+        "text": "结婚",
+        "correct": false
+      },
+      {
+        "text": "注意",
+        "correct": false
+      },
+      {
+        "text": "兴趣",
         "correct": false
       },
       {
         "text": "换",
         "correct": true
-      },
-      {
-        "text": "被",
-        "correct": false
-      },
-      {
-        "text": "专业",
-        "correct": false
       }
     ]
   },
@@ -2124,20 +2124,20 @@ const quizData = [
     "question": "môi trường, hoàn cảnh",
     "answers": [
       {
+        "text": "厨房",
+        "correct": false
+      },
+      {
+        "text": "老",
+        "correct": false
+      },
+      {
+        "text": "先",
+        "correct": false
+      },
+      {
         "text": "环境",
         "correct": true
-      },
-      {
-        "text": "饿",
-        "correct": false
-      },
-      {
-        "text": "新鲜",
-        "correct": false
-      },
-      {
-        "text": "街道",
-        "correct": false
       }
     ]
   },
@@ -2149,15 +2149,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "重要",
+        "text": "差",
         "correct": false
       },
       {
-        "text": "更",
+        "text": "裤子",
         "correct": false
       },
       {
-        "text": "会议",
+        "text": "终于",
         "correct": false
       }
     ]
@@ -2166,20 +2166,20 @@ const quizData = [
     "question": "hội nghị",
     "answers": [
       {
-        "text": "西",
+        "text": "举行",
         "correct": false
       },
       {
-        "text": "声音",
-        "correct": false
-      },
-      {
-        "text": "季节",
+        "text": "角",
         "correct": false
       },
       {
         "text": "会议",
         "correct": true
+      },
+      {
+        "text": "见面",
+        "correct": false
       }
     ]
   },
@@ -2191,15 +2191,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "为了",
+        "text": "主意",
         "correct": false
       },
       {
-        "text": "空调",
+        "text": "记得",
         "correct": false
       },
       {
-        "text": "季节",
+        "text": "害怕",
         "correct": false
       }
     ]
@@ -2208,19 +2208,19 @@ const quizData = [
     "question": "hộ chiếu",
     "answers": [
       {
+        "text": "表演",
+        "correct": false
+      },
+      {
+        "text": "愿意",
+        "correct": false
+      },
+      {
         "text": "护照",
         "correct": true
       },
       {
-        "text": "健康",
-        "correct": false
-      },
-      {
-        "text": "辆",
-        "correct": false
-      },
-      {
-        "text": "认真",
+        "text": "空调",
         "correct": false
       }
     ]
@@ -2229,19 +2229,19 @@ const quizData = [
     "question": "hết, hết, cực",
     "answers": [
       {
+        "text": "面包",
+        "correct": false
+      },
+      {
+        "text": "如果",
+        "correct": false
+      },
+      {
         "text": "极",
         "correct": true
       },
       {
-        "text": "参加",
-        "correct": false
-      },
-      {
-        "text": "把",
-        "correct": false
-      },
-      {
-        "text": "选择",
+        "text": "中间",
         "correct": false
       }
     ]
@@ -2250,20 +2250,20 @@ const quizData = [
     "question": "kiểm tra",
     "answers": [
       {
-        "text": "短",
-        "correct": false
-      },
-      {
-        "text": "司机",
-        "correct": false
-      },
-      {
-        "text": "句子",
+        "text": "需要",
         "correct": false
       },
       {
         "text": "检查",
         "correct": true
+      },
+      {
+        "text": "节日",
+        "correct": false
+      },
+      {
+        "text": "接",
+        "correct": false
       }
     ]
   },
@@ -2271,19 +2271,19 @@ const quizData = [
     "question": "đơn giản",
     "answers": [
       {
+        "text": "决定",
+        "correct": false
+      },
+      {
         "text": "简单",
         "correct": true
       },
       {
-        "text": "短",
+        "text": "或者",
         "correct": false
       },
       {
-        "text": "努力",
-        "correct": false
-      },
-      {
-        "text": "同事",
+        "text": "照顾",
         "correct": false
       }
     ]
@@ -2292,20 +2292,20 @@ const quizData = [
     "question": "nói, kể, giảng",
     "answers": [
       {
-        "text": "举行",
-        "correct": false
-      },
-      {
-        "text": "角",
-        "correct": false
-      },
-      {
-        "text": "老",
-        "correct": false
-      },
-      {
         "text": "讲",
         "correct": true
+      },
+      {
+        "text": "机会",
+        "correct": false
+      },
+      {
+        "text": "除了",
+        "correct": false
+      },
+      {
+        "text": "关于",
+        "correct": false
       }
     ]
   },
@@ -2313,11 +2313,11 @@ const quizData = [
     "question": "khỏe mạnh",
     "answers": [
       {
-        "text": "发烧",
+        "text": "接",
         "correct": false
       },
       {
-        "text": "照片",
+        "text": "经济",
         "correct": false
       },
       {
@@ -2325,7 +2325,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "拿",
+        "text": "发烧",
         "correct": false
       }
     ]
@@ -2334,11 +2334,11 @@ const quizData = [
     "question": "gặp mặt, gặp nhau",
     "answers": [
       {
-        "text": "使",
+        "text": "地方",
         "correct": false
       },
       {
-        "text": "裙子",
+        "text": "街道",
         "correct": false
       },
       {
@@ -2346,7 +2346,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "图书馆",
+        "text": "北京",
         "correct": false
       }
     ]
@@ -2355,20 +2355,20 @@ const quizData = [
     "question": "chân",
     "answers": [
       {
-        "text": "种",
+        "text": "爬山",
         "correct": false
       },
       {
-        "text": "搬",
-        "correct": false
-      },
-      {
-        "text": "年级",
+        "text": "相信",
         "correct": false
       },
       {
         "text": "脚",
         "correct": true
+      },
+      {
+        "text": "热情",
+        "correct": false
       }
     ]
   },
@@ -2376,11 +2376,11 @@ const quizData = [
     "question": "sừng, góc, hào",
     "answers": [
       {
-        "text": "树",
+        "text": "衬衫",
         "correct": false
       },
       {
-        "text": "半",
+        "text": "完成",
         "correct": false
       },
       {
@@ -2388,7 +2388,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "附近",
+        "text": "万",
         "correct": false
       }
     ]
@@ -2397,20 +2397,20 @@ const quizData = [
     "question": "dạy",
     "answers": [
       {
-        "text": "被",
+        "text": "努力",
+        "correct": false
+      },
+      {
+        "text": "终于",
+        "correct": false
+      },
+      {
+        "text": "腿",
         "correct": false
       },
       {
         "text": "教",
         "correct": true
-      },
-      {
-        "text": "用",
-        "correct": false
-      },
-      {
-        "text": "河",
-        "correct": false
       }
     ]
   },
@@ -2422,15 +2422,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "南",
+        "text": "注意",
         "correct": false
       },
       {
-        "text": "担心",
+        "text": "过（助）",
         "correct": false
       },
       {
-        "text": "爱好",
+        "text": "花",
         "correct": false
       }
     ]
@@ -2439,15 +2439,15 @@ const quizData = [
     "question": "mượn, vay",
     "answers": [
       {
-        "text": "葡萄",
+        "text": "宾馆",
         "correct": false
       },
       {
-        "text": "结束",
+        "text": "记得",
         "correct": false
       },
       {
-        "text": "月亮",
+        "text": "半",
         "correct": false
       },
       {
@@ -2460,19 +2460,19 @@ const quizData = [
     "question": "tiếp, nối, đón, nhận",
     "answers": [
       {
-        "text": "耳朵",
-        "correct": false
-      },
-      {
-        "text": "花",
-        "correct": false
-      },
-      {
         "text": "接",
         "correct": true
       },
       {
-        "text": "花园",
+        "text": "矮",
+        "correct": false
+      },
+      {
+        "text": "选择",
+        "correct": false
+      },
+      {
+        "text": "明白",
         "correct": false
       }
     ]
@@ -2481,7 +2481,7 @@ const quizData = [
     "question": "phố, đường",
     "answers": [
       {
-        "text": "蛋糕",
+        "text": "还（动词）",
         "correct": false
       },
       {
@@ -2489,11 +2489,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "办法",
+        "text": "相同",
         "correct": false
       },
       {
-        "text": "讲",
+        "text": "比较",
         "correct": false
       }
     ]
@@ -2506,15 +2506,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "解决",
+        "text": "决定",
         "correct": false
       },
       {
-        "text": "上网",
+        "text": "可爱",
         "correct": false
       },
       {
-        "text": "练习",
+        "text": "刚才",
         "correct": false
       }
     ]
@@ -2523,11 +2523,7 @@ const quizData = [
     "question": "giải quyết",
     "answers": [
       {
-        "text": "对(介词）",
-        "correct": false
-      },
-      {
-        "text": "满意",
+        "text": "以为",
         "correct": false
       },
       {
@@ -2535,7 +2531,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "虽然",
+        "text": "兴趣",
+        "correct": false
+      },
+      {
+        "text": "安静",
         "correct": false
       }
     ]
@@ -2544,19 +2544,19 @@ const quizData = [
     "question": "tiết mục",
     "answers": [
       {
+        "text": "中间",
+        "correct": false
+      },
+      {
+        "text": "碗",
+        "correct": false
+      },
+      {
         "text": "节目",
         "correct": true
       },
       {
-        "text": "冰箱",
-        "correct": false
-      },
-      {
-        "text": "条",
-        "correct": false
-      },
-      {
-        "text": "文化",
+        "text": "头发",
         "correct": false
       }
     ]
@@ -2565,20 +2565,20 @@ const quizData = [
     "question": "ngày lễ, ngày tết",
     "answers": [
       {
-        "text": "着急",
+        "text": "担心",
         "correct": false
       },
       {
-        "text": "相同",
+        "text": "舒服",
+        "correct": false
+      },
+      {
+        "text": "数学",
         "correct": false
       },
       {
         "text": "节日",
         "correct": true
-      },
-      {
-        "text": "照相机",
-        "correct": false
       }
     ]
   },
@@ -2586,19 +2586,19 @@ const quizData = [
     "question": "kết thúc",
     "answers": [
       {
+        "text": "客人",
+        "correct": false
+      },
+      {
         "text": "结束",
         "correct": true
       },
       {
-        "text": "安静",
+        "text": "信",
         "correct": false
       },
       {
-        "text": "宾馆",
-        "correct": false
-      },
-      {
-        "text": "绿",
+        "text": "体育",
         "correct": false
       }
     ]
@@ -2607,15 +2607,15 @@ const quizData = [
     "question": "hầu như,cơ hồ",
     "answers": [
       {
-        "text": "护照",
+        "text": "其实",
         "correct": false
       },
       {
-        "text": "聪明",
+        "text": "要求",
         "correct": false
       },
       {
-        "text": "帮忙",
+        "text": "双",
         "correct": false
       },
       {
@@ -2628,7 +2628,11 @@ const quizData = [
     "question": "cơ hội",
     "answers": [
       {
-        "text": "健康",
+        "text": "行李箱",
+        "correct": false
+      },
+      {
+        "text": "需要",
         "correct": false
       },
       {
@@ -2636,11 +2640,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "地图",
-        "correct": false
-      },
-      {
-        "text": "游戏",
+        "text": "舒服",
         "correct": false
       }
     ]
@@ -2649,32 +2649,11 @@ const quizData = [
     "question": "mùa, khí hậu",
     "answers": [
       {
-        "text": "季节",
-        "correct": true
-      },
-      {
-        "text": "主要",
+        "text": "双",
         "correct": false
       },
       {
-        "text": "脚",
-        "correct": false
-      },
-      {
-        "text": "段",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "thường xuyên",
-    "answers": [
-      {
-        "text": "感冒",
-        "correct": false
-      },
-      {
-        "text": "客人",
+        "text": "然后",
         "correct": false
       },
       {
@@ -2682,8 +2661,29 @@ const quizData = [
         "correct": false
       },
       {
+        "text": "季节",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "thường xuyên",
+    "answers": [
+      {
+        "text": "机会",
+        "correct": false
+      },
+      {
         "text": "经常",
         "correct": true
+      },
+      {
+        "text": "关心",
+        "correct": false
+      },
+      {
+        "text": "超市",
+        "correct": false
       }
     ]
   },
@@ -2691,20 +2691,20 @@ const quizData = [
     "question": "quá trình, trải qua, đi qua",
     "answers": [
       {
-        "text": "帽子",
+        "text": "花园",
         "correct": false
       },
       {
-        "text": "祝",
+        "text": "啤酒",
+        "correct": false
+      },
+      {
+        "text": "洗手间",
         "correct": false
       },
       {
         "text": "经过",
         "correct": true
-      },
-      {
-        "text": "关",
-        "correct": false
       }
     ]
   },
@@ -2712,20 +2712,20 @@ const quizData = [
     "question": "kinh tế",
     "answers": [
       {
-        "text": "决定",
-        "correct": false
-      },
-      {
-        "text": "叔叔",
-        "correct": false
-      },
-      {
-        "text": "搬",
-        "correct": false
-      },
-      {
         "text": "经济",
         "correct": true
+      },
+      {
+        "text": "教",
+        "correct": false
+      },
+      {
+        "text": "站",
+        "correct": false
+      },
+      {
+        "text": "月亮",
+        "correct": false
       }
     ]
   },
@@ -2733,11 +2733,11 @@ const quizData = [
     "question": "giám đốc",
     "answers": [
       {
-        "text": "着急",
+        "text": "国家",
         "correct": false
       },
       {
-        "text": "秋",
+        "text": "层",
         "correct": false
       },
       {
@@ -2745,7 +2745,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "相信",
+        "text": "自然",
         "correct": false
       }
     ]
@@ -2754,15 +2754,15 @@ const quizData = [
     "question": "cũ",
     "answers": [
       {
-        "text": "骑",
+        "text": "环境",
         "correct": false
       },
       {
-        "text": "香蕉",
+        "text": "照相机",
         "correct": false
       },
       {
-        "text": "客人",
+        "text": "城市",
         "correct": false
       },
       {
@@ -2775,20 +2775,20 @@ const quizData = [
     "question": "lâu",
     "answers": [
       {
-        "text": "刮风",
+        "text": "鼻子",
+        "correct": false
+      },
+      {
+        "text": "离开",
+        "correct": false
+      },
+      {
+        "text": "专业",
         "correct": false
       },
       {
         "text": "久",
         "correct": true
-      },
-      {
-        "text": "突然",
-        "correct": false
-      },
-      {
-        "text": "筷子",
-        "correct": false
       }
     ]
   },
@@ -2796,20 +2796,20 @@ const quizData = [
     "question": "quyết định",
     "answers": [
       {
-        "text": "奇怪",
+        "text": "南",
         "correct": false
       },
       {
-        "text": "上网",
+        "text": "季节",
+        "correct": false
+      },
+      {
+        "text": "办公室",
         "correct": false
       },
       {
         "text": "决定",
         "correct": true
-      },
-      {
-        "text": "还是",
-        "correct": false
       }
     ]
   },
@@ -2817,7 +2817,7 @@ const quizData = [
     "question": "tổ chức, cử hành",
     "answers": [
       {
-        "text": "树",
+        "text": "总是",
         "correct": false
       },
       {
@@ -2825,11 +2825,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "词语",
+        "text": "一般",
         "correct": false
       },
       {
-        "text": "如果",
+        "text": "安静",
         "correct": false
       }
     ]
@@ -2838,20 +2838,20 @@ const quizData = [
     "question": "câu",
     "answers": [
       {
-        "text": "离开",
+        "text": "地方",
+        "correct": false
+      },
+      {
+        "text": "放",
+        "correct": false
+      },
+      {
+        "text": "邻居",
         "correct": false
       },
       {
         "text": "句子",
         "correct": true
-      },
-      {
-        "text": "眼镜",
-        "correct": false
-      },
-      {
-        "text": "应该",
-        "correct": false
       }
     ]
   },
@@ -2859,19 +2859,19 @@ const quizData = [
     "question": "khát",
     "answers": [
       {
-        "text": "裙子",
-        "correct": false
-      },
-      {
-        "text": "短",
-        "correct": false
-      },
-      {
         "text": "渴",
         "correct": true
       },
       {
-        "text": "认为",
+        "text": "或者",
+        "correct": false
+      },
+      {
+        "text": "鼻子",
+        "correct": false
+      },
+      {
+        "text": "搬",
         "correct": false
       }
     ]
@@ -2880,19 +2880,19 @@ const quizData = [
     "question": "đáng yêu, dễ thương",
     "answers": [
       {
+        "text": "铅笔",
+        "correct": false
+      },
+      {
+        "text": "明白",
+        "correct": false
+      },
+      {
         "text": "可爱",
         "correct": true
       },
       {
-        "text": "耳朵",
-        "correct": false
-      },
-      {
-        "text": "经济",
-        "correct": false
-      },
-      {
-        "text": "同意",
+        "text": "以后",
         "correct": false
       }
     ]
@@ -2901,7 +2901,11 @@ const quizData = [
     "question": "khách",
     "answers": [
       {
-        "text": "干净",
+        "text": "行李箱",
+        "correct": false
+      },
+      {
+        "text": "分",
         "correct": false
       },
       {
@@ -2909,11 +2913,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "变化",
-        "correct": false
-      },
-      {
-        "text": "先",
+        "text": "了解",
         "correct": false
       }
     ]
@@ -2922,57 +2922,15 @@ const quizData = [
     "question": "máy lạnh",
     "answers": [
       {
-        "text": "洗手间",
+        "text": "干净",
         "correct": false
       },
       {
-        "text": "位",
+        "text": "礼物",
         "correct": false
       },
       {
         "text": "空调",
-        "correct": true
-      },
-      {
-        "text": "节目",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "miệng, khẩu",
-    "answers": [
-      {
-        "text": "经理",
-        "correct": false
-      },
-      {
-        "text": "简单",
-        "correct": false
-      },
-      {
-        "text": "口",
-        "correct": true
-      },
-      {
-        "text": "眼镜",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "khóc",
-    "answers": [
-      {
-        "text": "腿",
-        "correct": false
-      },
-      {
-        "text": "裤子",
-        "correct": false
-      },
-      {
-        "text": "哭",
         "correct": true
       },
       {
@@ -2982,18 +2940,60 @@ const quizData = [
     ]
   },
   {
+    "question": "miệng, khẩu",
+    "answers": [
+      {
+        "text": "口",
+        "correct": true
+      },
+      {
+        "text": "站",
+        "correct": false
+      },
+      {
+        "text": "难过",
+        "correct": false
+      },
+      {
+        "text": "爱好",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "khóc",
+    "answers": [
+      {
+        "text": "甜",
+        "correct": false
+      },
+      {
+        "text": "哭",
+        "correct": true
+      },
+      {
+        "text": "照相机",
+        "correct": false
+      },
+      {
+        "text": "鼻子",
+        "correct": false
+      }
+    ]
+  },
+  {
     "question": "đũa",
     "answers": [
       {
-        "text": "突然",
+        "text": "同意",
         "correct": false
       },
       {
-        "text": "草",
+        "text": "位",
         "correct": false
       },
       {
-        "text": "兴趣",
+        "text": "马",
         "correct": false
       },
       {
@@ -3006,20 +3006,20 @@ const quizData = [
     "question": "quần",
     "answers": [
       {
-        "text": "换",
-        "correct": false
-      },
-      {
-        "text": "还是",
-        "correct": false
-      },
-      {
-        "text": "一般",
+        "text": "宾馆",
         "correct": false
       },
       {
         "text": "裤子",
         "correct": true
+      },
+      {
+        "text": "花",
+        "correct": false
+      },
+      {
+        "text": "决定",
+        "correct": false
       }
     ]
   },
@@ -3027,20 +3027,20 @@ const quizData = [
     "question": "xanh lam",
     "answers": [
       {
-        "text": "用",
-        "correct": false
-      },
-      {
-        "text": "健康",
-        "correct": false
-      },
-      {
-        "text": "关",
-        "correct": false
-      },
-      {
         "text": "蓝",
         "correct": true
+      },
+      {
+        "text": "提高",
+        "correct": false
+      },
+      {
+        "text": "关系",
+        "correct": false
+      },
+      {
+        "text": "几乎",
+        "correct": false
       }
     ]
   },
@@ -3048,20 +3048,20 @@ const quizData = [
     "question": "già",
     "answers": [
       {
-        "text": "担心",
-        "correct": false
-      },
-      {
-        "text": "根据",
-        "correct": false
-      },
-      {
-        "text": "行李箱",
+        "text": "解决",
         "correct": false
       },
       {
         "text": "老",
         "correct": true
+      },
+      {
+        "text": "机会",
+        "correct": false
+      },
+      {
+        "text": "过（助）",
+        "correct": false
       }
     ]
   },
@@ -3069,19 +3069,19 @@ const quizData = [
     "question": "mặt",
     "answers": [
       {
+        "text": "过（助）",
+        "correct": false
+      },
+      {
         "text": "脸",
         "correct": true
       },
       {
-        "text": "宾馆",
+        "text": "祝",
         "correct": false
       },
       {
-        "text": "站",
-        "correct": false
-      },
-      {
-        "text": "健康",
+        "text": "还（动词）",
         "correct": false
       }
     ]
@@ -3094,15 +3094,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "多么",
+        "text": "鞋",
         "correct": false
       },
       {
-        "text": "离开",
+        "text": "奇怪",
         "correct": false
       },
       {
-        "text": "担心",
+        "text": "鸟",
         "correct": false
       }
     ]
@@ -3111,7 +3111,7 @@ const quizData = [
     "question": "luyện tập, bài tập",
     "answers": [
       {
-        "text": "花",
+        "text": "段",
         "correct": false
       },
       {
@@ -3119,11 +3119,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "锻炼",
+        "text": "教",
         "correct": false
       },
       {
-        "text": "如果",
+        "text": "检查",
         "correct": false
       }
     ]
@@ -3132,7 +3132,11 @@ const quizData = [
     "question": "hiểu rõ, biết rõ",
     "answers": [
       {
-        "text": "腿",
+        "text": "面条",
+        "correct": false
+      },
+      {
+        "text": "需要",
         "correct": false
       },
       {
@@ -3140,11 +3144,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "愿意",
-        "correct": false
-      },
-      {
-        "text": "还（动词）",
+        "text": "骑",
         "correct": false
       }
     ]
@@ -3153,20 +3153,20 @@ const quizData = [
     "question": "rời khỏi",
     "answers": [
       {
+        "text": "春",
+        "correct": false
+      },
+      {
+        "text": "可爱",
+        "correct": false
+      },
+      {
+        "text": "帮忙",
+        "correct": false
+      },
+      {
         "text": "离开",
         "correct": true
-      },
-      {
-        "text": "聪明",
-        "correct": false
-      },
-      {
-        "text": "中间",
-        "correct": false
-      },
-      {
-        "text": "鼻子",
-        "correct": false
       }
     ]
   },
@@ -3174,20 +3174,20 @@ const quizData = [
     "question": "hàng xóm",
     "answers": [
       {
-        "text": "信",
+        "text": "一会儿",
+        "correct": false
+      },
+      {
+        "text": "接",
+        "correct": false
+      },
+      {
+        "text": "面条",
         "correct": false
       },
       {
         "text": "邻居",
         "correct": true
-      },
-      {
-        "text": "复习",
-        "correct": false
-      },
-      {
-        "text": "新闻",
-        "correct": false
       }
     ]
   },
@@ -3195,20 +3195,20 @@ const quizData = [
     "question": "lịch sử",
     "answers": [
       {
-        "text": "主意",
+        "text": "相信",
+        "correct": false
+      },
+      {
+        "text": "北京",
+        "correct": false
+      },
+      {
+        "text": "跟",
         "correct": false
       },
       {
         "text": "历史",
         "correct": true
-      },
-      {
-        "text": "兴趣",
-        "correct": false
-      },
-      {
-        "text": "街道",
-        "correct": false
       }
     ]
   },
@@ -3220,15 +3220,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "半",
+        "text": "节目",
         "correct": false
       },
       {
-        "text": "会议",
+        "text": "奶奶",
         "correct": false
       },
       {
-        "text": "骑",
+        "text": "故事",
         "correct": false
       }
     ]
@@ -3237,7 +3237,11 @@ const quizData = [
     "question": "lầu, tầng",
     "answers": [
       {
-        "text": "迟到",
+        "text": "半",
+        "correct": false
+      },
+      {
+        "text": "水平",
         "correct": false
       },
       {
@@ -3245,11 +3249,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "表示",
-        "correct": false
-      },
-      {
-        "text": "脚",
+        "text": "或者",
         "correct": false
       }
     ]
@@ -3258,19 +3258,19 @@ const quizData = [
     "question": "xanh lá",
     "answers": [
       {
-        "text": "办法",
-        "correct": false
-      },
-      {
         "text": "绿",
         "correct": true
       },
       {
-        "text": "应该",
+        "text": "矮",
         "correct": false
       },
       {
-        "text": "一会儿",
+        "text": "练习",
+        "correct": false
+      },
+      {
+        "text": "认为",
         "correct": false
       }
     ]
@@ -3279,11 +3279,7 @@ const quizData = [
     "question": "ngựa",
     "answers": [
       {
-        "text": "成绩",
-        "correct": false
-      },
-      {
-        "text": "瘦",
+        "text": "带",
         "correct": false
       },
       {
@@ -3291,7 +3287,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "国家",
+        "text": "衬衫",
+        "correct": false
+      },
+      {
+        "text": "照相机",
         "correct": false
       }
     ]
@@ -3304,15 +3304,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "关系",
+        "text": "啤酒",
         "correct": false
       },
       {
-        "text": "节日",
+        "text": "一样",
         "correct": false
       },
       {
-        "text": "见面",
+        "text": "爷爷",
         "correct": false
       }
     ]
@@ -3321,7 +3321,7 @@ const quizData = [
     "question": "mũ",
     "answers": [
       {
-        "text": "角",
+        "text": "条",
         "correct": false
       },
       {
@@ -3329,11 +3329,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "发烧",
+        "text": "相同",
         "correct": false
       },
       {
-        "text": "地方",
+        "text": "厨房",
         "correct": false
       }
     ]
@@ -3342,20 +3342,20 @@ const quizData = [
     "question": "lập tức",
     "answers": [
       {
-        "text": "明白",
+        "text": "练习",
         "correct": false
       },
       {
-        "text": "以后",
-        "correct": false
-      },
-      {
-        "text": "自己",
+        "text": "文化",
         "correct": false
       },
       {
         "text": "马上",
         "correct": true
+      },
+      {
+        "text": "公园",
+        "correct": false
       }
     ]
   },
@@ -3367,15 +3367,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "比较",
+        "text": "季节",
         "correct": false
       },
       {
-        "text": "换",
+        "text": "年级",
         "correct": false
       },
       {
-        "text": "国家",
+        "text": "甜",
         "correct": false
       }
     ]
@@ -3384,19 +3384,19 @@ const quizData = [
     "question": "bánh mì",
     "answers": [
       {
-        "text": "了解",
-        "correct": false
-      },
-      {
-        "text": "楼",
-        "correct": false
-      },
-      {
         "text": "面包",
         "correct": true
       },
       {
-        "text": "机会",
+        "text": "关心",
+        "correct": false
+      },
+      {
+        "text": "一定",
+        "correct": false
+      },
+      {
+        "text": "迟到",
         "correct": false
       }
     ]
@@ -3405,19 +3405,19 @@ const quizData = [
     "question": "mì, mì sợi",
     "answers": [
       {
+        "text": "西",
+        "correct": false
+      },
+      {
+        "text": "久",
+        "correct": false
+      },
+      {
         "text": "面条",
         "correct": true
       },
       {
-        "text": "简单",
-        "correct": false
-      },
-      {
-        "text": "裤子",
-        "correct": false
-      },
-      {
-        "text": "刮风",
+        "text": "叔叔",
         "correct": false
       }
     ]
@@ -3426,20 +3426,20 @@ const quizData = [
     "question": "rõ ràng, hiểu biết",
     "answers": [
       {
+        "text": "过（助）",
+        "correct": false
+      },
+      {
+        "text": "必须",
+        "correct": false
+      },
+      {
+        "text": "节目",
+        "correct": false
+      },
+      {
         "text": "明白",
         "correct": true
-      },
-      {
-        "text": "奶奶",
-        "correct": false
-      },
-      {
-        "text": "跟",
-        "correct": false
-      },
-      {
-        "text": "选择",
-        "correct": false
       }
     ]
   },
@@ -3447,20 +3447,20 @@ const quizData = [
     "question": "cầm, lấy",
     "answers": [
       {
+        "text": "明白",
+        "correct": false
+      },
+      {
+        "text": "老",
+        "correct": false
+      },
+      {
+        "text": "国家",
+        "correct": false
+      },
+      {
         "text": "拿",
         "correct": true
-      },
-      {
-        "text": "只",
-        "correct": false
-      },
-      {
-        "text": "游戏",
-        "correct": false
-      },
-      {
-        "text": "表示",
-        "correct": false
       }
     ]
   },
@@ -3468,20 +3468,20 @@ const quizData = [
     "question": "bà",
     "answers": [
       {
-        "text": "机会",
-        "correct": false
-      },
-      {
-        "text": "宾馆",
-        "correct": false
-      },
-      {
-        "text": "蛋糕",
-        "correct": false
-      },
-      {
         "text": "奶奶",
         "correct": true
+      },
+      {
+        "text": "万",
+        "correct": false
+      },
+      {
+        "text": "换",
+        "correct": false
+      },
+      {
+        "text": "先",
+        "correct": false
       }
     ]
   },
@@ -3493,15 +3493,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "发现",
+        "text": "眼镜",
         "correct": false
       },
       {
-        "text": "蓝",
+        "text": "矮",
         "correct": false
       },
       {
-        "text": "数学",
+        "text": "马",
         "correct": false
       }
     ]
@@ -3510,15 +3510,15 @@ const quizData = [
     "question": "khó chịu",
     "answers": [
       {
-        "text": "爱好",
+        "text": "关心",
         "correct": false
       },
       {
-        "text": "借",
+        "text": "银行",
         "correct": false
       },
       {
-        "text": "果汁",
+        "text": "而且",
         "correct": false
       },
       {
@@ -3531,20 +3531,20 @@ const quizData = [
     "question": "lớp, cấp học",
     "answers": [
       {
-        "text": "照相机",
+        "text": "出差",
         "correct": false
       },
       {
-        "text": "画",
-        "correct": false
-      },
-      {
-        "text": "面包",
+        "text": "班",
         "correct": false
       },
       {
         "text": "年级",
         "correct": true
+      },
+      {
+        "text": "借",
+        "correct": false
       }
     ]
   },
@@ -3552,19 +3552,19 @@ const quizData = [
     "question": "trẻ",
     "answers": [
       {
+        "text": "体育",
+        "correct": false
+      },
+      {
+        "text": "礼物",
+        "correct": false
+      },
+      {
         "text": "年轻",
         "correct": true
       },
       {
-        "text": "难过",
-        "correct": false
-      },
-      {
-        "text": "关心",
-        "correct": false
-      },
-      {
-        "text": "结束",
+        "text": "阿姨",
         "correct": false
       }
     ]
@@ -3573,15 +3573,15 @@ const quizData = [
     "question": "chim",
     "answers": [
       {
-        "text": "夏",
+        "text": "对(介词）",
         "correct": false
       },
       {
-        "text": "当然",
+        "text": "更",
         "correct": false
       },
       {
-        "text": "经济",
+        "text": "矮",
         "correct": false
       },
       {
@@ -3594,20 +3594,20 @@ const quizData = [
     "question": "nỗ lực, cố gắng",
     "answers": [
       {
+        "text": "专业",
+        "correct": false
+      },
+      {
+        "text": "夏",
+        "correct": false
+      },
+      {
+        "text": "刷牙",
+        "correct": false
+      },
+      {
         "text": "努力",
         "correct": true
-      },
-      {
-        "text": "草",
-        "correct": false
-      },
-      {
-        "text": "故事",
-        "correct": false
-      },
-      {
-        "text": "地方",
-        "correct": false
       }
     ]
   },
@@ -3615,20 +3615,20 @@ const quizData = [
     "question": "béo",
     "answers": [
       {
-        "text": "糖",
-        "correct": false
-      },
-      {
-        "text": "然后",
-        "correct": false
-      },
-      {
-        "text": "成绩",
-        "correct": false
-      },
-      {
         "text": "胖",
         "correct": true
+      },
+      {
+        "text": "碗",
+        "correct": false
+      },
+      {
+        "text": "角",
+        "correct": false
+      },
+      {
+        "text": "照片",
+        "correct": false
       }
     ]
   },
@@ -3636,20 +3636,20 @@ const quizData = [
     "question": "đĩa, mâm, khay",
     "answers": [
       {
-        "text": "铅笔",
+        "text": "月亮",
+        "correct": false
+      },
+      {
+        "text": "果汁",
+        "correct": false
+      },
+      {
+        "text": "动物",
         "correct": false
       },
       {
         "text": "盘子",
         "correct": true
-      },
-      {
-        "text": "或者",
-        "correct": false
-      },
-      {
-        "text": "除了",
-        "correct": false
       }
     ]
   },
@@ -3657,20 +3657,20 @@ const quizData = [
     "question": "leo núi",
     "answers": [
       {
-        "text": "矮",
-        "correct": false
-      },
-      {
-        "text": "检查",
-        "correct": false
-      },
-      {
-        "text": "北京",
-        "correct": false
-      },
-      {
         "text": "爬山",
         "correct": true
+      },
+      {
+        "text": "必须",
+        "correct": false
+      },
+      {
+        "text": "同意",
+        "correct": false
+      },
+      {
+        "text": "阿姨",
+        "correct": false
       }
     ]
   },
@@ -3678,20 +3678,20 @@ const quizData = [
     "question": "bia",
     "answers": [
       {
+        "text": "结束",
+        "correct": false
+      },
+      {
+        "text": "突然",
+        "correct": false
+      },
+      {
+        "text": "终于",
+        "correct": false
+      },
+      {
         "text": "啤酒",
         "correct": true
-      },
-      {
-        "text": "重要",
-        "correct": false
-      },
-      {
-        "text": "护照",
-        "correct": false
-      },
-      {
-        "text": "矮",
-        "correct": false
       }
     ]
   },
@@ -3699,19 +3699,19 @@ const quizData = [
     "question": "nho",
     "answers": [
       {
+        "text": "完成",
+        "correct": false
+      },
+      {
+        "text": "机会",
+        "correct": false
+      },
+      {
         "text": "葡萄",
         "correct": true
       },
       {
-        "text": "辆",
-        "correct": false
-      },
-      {
-        "text": "护照",
-        "correct": false
-      },
-      {
-        "text": "举行",
+        "text": "练习",
         "correct": false
       }
     ]
@@ -3720,19 +3720,19 @@ const quizData = [
     "question": "tiếng phổ thông",
     "answers": [
       {
-        "text": "层",
-        "correct": false
-      },
-      {
-        "text": "矮",
-        "correct": false
-      },
-      {
         "text": "普通话",
         "correct": true
       },
       {
-        "text": "作业",
+        "text": "骑",
+        "correct": false
+      },
+      {
+        "text": "满意",
+        "correct": false
+      },
+      {
+        "text": "段",
         "correct": false
       }
     ]
@@ -3741,20 +3741,20 @@ const quizData = [
     "question": "cưỡi, đi",
     "answers": [
       {
-        "text": "为了",
-        "correct": false
-      },
-      {
-        "text": "短",
-        "correct": false
-      },
-      {
-        "text": "结束",
+        "text": "新鲜",
         "correct": false
       },
       {
         "text": "骑",
         "correct": true
+      },
+      {
+        "text": "历史",
+        "correct": false
+      },
+      {
+        "text": "面包",
+        "correct": false
       }
     ]
   },
@@ -3762,20 +3762,20 @@ const quizData = [
     "question": "bút chì",
     "answers": [
       {
-        "text": "公园",
-        "correct": false
-      },
-      {
-        "text": "花",
-        "correct": false
-      },
-      {
-        "text": "小心",
+        "text": "努力",
         "correct": false
       },
       {
         "text": "铅笔",
         "correct": true
+      },
+      {
+        "text": "久",
+        "correct": false
+      },
+      {
+        "text": "表示",
+        "correct": false
       }
     ]
   },
@@ -3783,19 +3783,19 @@ const quizData = [
     "question": "kỳ lạ, ký quái",
     "answers": [
       {
-        "text": "影响",
-        "correct": false
-      },
-      {
         "text": "奇怪",
         "correct": true
       },
       {
-        "text": "会议",
+        "text": "担心",
         "correct": false
       },
       {
-        "text": "被",
+        "text": "北京",
+        "correct": false
+      },
+      {
+        "text": "然后",
         "correct": false
       }
     ]
@@ -3804,19 +3804,19 @@ const quizData = [
     "question": "rõ ràng, hiểu rõ",
     "answers": [
       {
-        "text": "愿意",
-        "correct": false
-      },
-      {
         "text": "清楚",
         "correct": true
       },
       {
-        "text": "层",
+        "text": "电子邮件",
         "correct": false
       },
       {
-        "text": "表演",
+        "text": "有名",
+        "correct": false
+      },
+      {
+        "text": "叔叔",
         "correct": false
       }
     ]
@@ -3825,19 +3825,19 @@ const quizData = [
     "question": "thực ra, kỳ thực",
     "answers": [
       {
-        "text": "低",
-        "correct": false
-      },
-      {
-        "text": "简单",
-        "correct": false
-      },
-      {
         "text": "其实",
         "correct": true
       },
       {
-        "text": "站",
+        "text": "文化",
+        "correct": false
+      },
+      {
+        "text": "几乎",
+        "correct": false
+      },
+      {
+        "text": "座(量）",
         "correct": false
       }
     ]
@@ -3846,20 +3846,20 @@ const quizData = [
     "question": "khác, cái khác",
     "answers": [
       {
-        "text": "办公室",
+        "text": "最近",
         "correct": false
       },
       {
-        "text": "坏",
+        "text": "以前",
+        "correct": false
+      },
+      {
+        "text": "夏",
         "correct": false
       },
       {
         "text": "其他",
         "correct": true
-      },
-      {
-        "text": "重要",
-        "correct": false
       }
     ]
   },
@@ -3867,20 +3867,20 @@ const quizData = [
     "question": "mùa thu",
     "answers": [
       {
-        "text": "位",
+        "text": "一般",
         "correct": false
       },
       {
-        "text": "低",
+        "text": "主要",
+        "correct": false
+      },
+      {
+        "text": "忘记",
         "correct": false
       },
       {
         "text": "秋",
         "correct": true
-      },
-      {
-        "text": "认真",
-        "correct": false
       }
     ]
   },
@@ -3888,19 +3888,19 @@ const quizData = [
     "question": "váy",
     "answers": [
       {
-        "text": "渴",
-        "correct": false
-      },
-      {
-        "text": "突然",
-        "correct": false
-      },
-      {
         "text": "裙子",
         "correct": true
       },
       {
-        "text": "普通话",
+        "text": "方便",
+        "correct": false
+      },
+      {
+        "text": "新鲜",
+        "correct": false
+      },
+      {
+        "text": "根据",
         "correct": false
       }
     ]
@@ -3909,19 +3909,19 @@ const quizData = [
     "question": "sau đó, tiếp đó",
     "answers": [
       {
+        "text": "花园",
+        "correct": false
+      },
+      {
         "text": "然后",
         "correct": true
       },
       {
-        "text": "鞋",
+        "text": "一边",
         "correct": false
       },
       {
-        "text": "又",
-        "correct": false
-      },
-      {
-        "text": "包",
+        "text": "月亮",
         "correct": false
       }
     ]
@@ -3930,15 +3930,15 @@ const quizData = [
     "question": "cho rằng, cho là",
     "answers": [
       {
-        "text": "打算",
+        "text": "句子",
         "correct": false
       },
       {
-        "text": "空调",
+        "text": "举行",
         "correct": false
       },
       {
-        "text": "舒服",
+        "text": "表演",
         "correct": false
       },
       {
@@ -3951,20 +3951,20 @@ const quizData = [
     "question": "chăm chỉ, nghiêm túc",
     "answers": [
       {
-        "text": "虽然",
+        "text": "上网",
         "correct": false
       },
       {
-        "text": "菜单",
+        "text": "打扫",
+        "correct": false
+      },
+      {
+        "text": "奶奶",
         "correct": false
       },
       {
         "text": "认真",
         "correct": true
-      },
-      {
-        "text": "关于",
-        "correct": false
       }
     ]
   },
@@ -3972,19 +3972,19 @@ const quizData = [
     "question": "nhiệt tình, nhiệt huyết",
     "answers": [
       {
+        "text": "中间",
+        "correct": false
+      },
+      {
         "text": "热情",
         "correct": true
       },
       {
-        "text": "敢",
+        "text": "跟",
         "correct": false
       },
       {
-        "text": "骑",
-        "correct": false
-      },
-      {
-        "text": "会议",
+        "text": "担心",
         "correct": false
       }
     ]
@@ -3993,11 +3993,11 @@ const quizData = [
     "question": "dễ dàng",
     "answers": [
       {
-        "text": "熊猫",
+        "text": "旧",
         "correct": false
       },
       {
-        "text": "为",
+        "text": "年轻",
         "correct": false
       },
       {
@@ -4005,7 +4005,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "解决",
+        "text": "成绩",
         "correct": false
       }
     ]
@@ -4014,20 +4014,20 @@ const quizData = [
     "question": "nếu, nếu như",
     "answers": [
       {
-        "text": "当然",
+        "text": "热情",
         "correct": false
       },
       {
-        "text": "地图",
+        "text": "老",
+        "correct": false
+      },
+      {
+        "text": "提高",
         "correct": false
       },
       {
         "text": "如果",
         "correct": true
-      },
-      {
-        "text": "附近",
-        "correct": false
       }
     ]
   },
@@ -4035,15 +4035,15 @@ const quizData = [
     "question": "ô, dù",
     "answers": [
       {
-        "text": "使",
+        "text": "结束",
         "correct": false
       },
       {
-        "text": "新闻",
+        "text": "碗",
         "correct": false
       },
       {
-        "text": "健康",
+        "text": "面包",
         "correct": false
       },
       {
@@ -4056,19 +4056,19 @@ const quizData = [
     "question": "lên mạng",
     "answers": [
       {
-        "text": "糖",
-        "correct": false
-      },
-      {
         "text": "上网",
         "correct": true
       },
       {
-        "text": "头发",
+        "text": "忘记",
         "correct": false
       },
       {
-        "text": "教",
+        "text": "包",
+        "correct": false
+      },
+      {
+        "text": "半",
         "correct": false
       }
     ]
@@ -4077,20 +4077,20 @@ const quizData = [
     "question": "tức giận",
     "answers": [
       {
-        "text": "铅笔",
-        "correct": false
-      },
-      {
-        "text": "或者",
-        "correct": false
-      },
-      {
-        "text": "经常",
+        "text": "发烧",
         "correct": false
       },
       {
         "text": "生气",
         "correct": true
+      },
+      {
+        "text": "葡萄",
+        "correct": false
+      },
+      {
+        "text": "世界",
+        "correct": false
       }
     ]
   },
@@ -4098,7 +4098,7 @@ const quizData = [
     "question": "âm thanh, tiếng",
     "answers": [
       {
-        "text": "地铁",
+        "text": "盘子",
         "correct": false
       },
       {
@@ -4106,11 +4106,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "双",
+        "text": "总是",
         "correct": false
       },
       {
-        "text": "难过",
+        "text": "对(介词）",
         "correct": false
       }
     ]
@@ -4119,11 +4119,7 @@ const quizData = [
     "question": "khiến, sai bảo, dùng",
     "answers": [
       {
-        "text": "洗手间",
-        "correct": false
-      },
-      {
-        "text": "节日",
+        "text": "邻居",
         "correct": false
       },
       {
@@ -4131,7 +4127,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "极",
+        "text": "一般",
+        "correct": false
+      },
+      {
+        "text": "努力",
         "correct": false
       }
     ]
@@ -4140,20 +4140,20 @@ const quizData = [
     "question": "thế giới",
     "answers": [
       {
-        "text": "把",
-        "correct": false
-      },
-      {
-        "text": "护照",
-        "correct": false
-      },
-      {
-        "text": "班",
+        "text": "会议",
         "correct": false
       },
       {
         "text": "世界",
         "correct": true
+      },
+      {
+        "text": "行李箱",
+        "correct": false
+      },
+      {
+        "text": "把",
+        "correct": false
       }
     ]
   },
@@ -4161,19 +4161,19 @@ const quizData = [
     "question": "gầy, ốm",
     "answers": [
       {
+        "text": "帽子",
+        "correct": false
+      },
+      {
+        "text": "灯",
+        "correct": false
+      },
+      {
         "text": "瘦",
         "correct": true
       },
       {
-        "text": "东",
-        "correct": false
-      },
-      {
-        "text": "冰箱",
-        "correct": false
-      },
-      {
-        "text": "虽然",
+        "text": "被",
         "correct": false
       }
     ]
@@ -4182,20 +4182,20 @@ const quizData = [
     "question": "cây",
     "answers": [
       {
-        "text": "爱好",
-        "correct": false
-      },
-      {
-        "text": "一般",
-        "correct": false
-      },
-      {
-        "text": "米",
+        "text": "地图",
         "correct": false
       },
       {
         "text": "树",
         "correct": true
+      },
+      {
+        "text": "灯",
+        "correct": false
+      },
+      {
+        "text": "刮风",
+        "correct": false
       }
     ]
   },
@@ -4203,7 +4203,7 @@ const quizData = [
     "question": "đôi, cặp",
     "answers": [
       {
-        "text": "国家",
+        "text": "难过",
         "correct": false
       },
       {
@@ -4211,11 +4211,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "马",
+        "text": "一共",
         "correct": false
       },
       {
-        "text": "饱",
+        "text": "见面",
         "correct": false
       }
     ]
@@ -4224,20 +4224,20 @@ const quizData = [
     "question": "đánh răng",
     "answers": [
       {
-        "text": "经济",
+        "text": "葡萄",
         "correct": false
       },
       {
-        "text": "老",
+        "text": "角",
+        "correct": false
+      },
+      {
+        "text": "信",
         "correct": false
       },
       {
         "text": "刷牙",
         "correct": true
-      },
-      {
-        "text": "渴",
-        "correct": false
       }
     ]
   },
@@ -4245,20 +4245,20 @@ const quizData = [
     "question": "thỏa mái, dễ chịu",
     "answers": [
       {
-        "text": "其实",
+        "text": "葡萄",
+        "correct": false
+      },
+      {
+        "text": "地图",
+        "correct": false
+      },
+      {
+        "text": "敢",
         "correct": false
       },
       {
         "text": "舒服",
         "correct": true
-      },
-      {
-        "text": "腿",
-        "correct": false
-      },
-      {
-        "text": "小心",
-        "correct": false
       }
     ]
   },
@@ -4266,19 +4266,19 @@ const quizData = [
     "question": "trình độ",
     "answers": [
       {
-        "text": "冰箱",
-        "correct": false
-      },
-      {
         "text": "水平",
         "correct": true
       },
       {
-        "text": "照相机",
+        "text": "上网",
         "correct": false
       },
       {
-        "text": "爱好",
+        "text": "裤子",
+        "correct": false
+      },
+      {
+        "text": "鸟",
         "correct": false
       }
     ]
@@ -4291,15 +4291,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "洗澡",
+        "text": "关",
         "correct": false
       },
       {
-        "text": "楼",
+        "text": "又",
         "correct": false
       },
       {
-        "text": "位",
+        "text": "害怕",
         "correct": false
       }
     ]
@@ -4308,20 +4308,20 @@ const quizData = [
     "question": "toán học",
     "answers": [
       {
-        "text": "关系",
+        "text": "只(量）",
+        "correct": false
+      },
+      {
+        "text": "还（动词）",
+        "correct": false
+      },
+      {
+        "text": "经过",
         "correct": false
       },
       {
         "text": "数学",
         "correct": true
-      },
-      {
-        "text": "条",
-        "correct": false
-      },
-      {
-        "text": "健康",
-        "correct": false
       }
     ]
   },
@@ -4333,15 +4333,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "班",
+        "text": "热情",
         "correct": false
       },
       {
-        "text": "伞",
+        "text": "图书馆",
         "correct": false
       },
       {
-        "text": "条",
+        "text": "突然",
         "correct": false
       }
     ]
@@ -4350,7 +4350,11 @@ const quizData = [
     "question": "tuy, tuy nhiên, mặc dù",
     "answers": [
       {
-        "text": "表示",
+        "text": "或者",
+        "correct": false
+      },
+      {
+        "text": "爱好",
         "correct": false
       },
       {
@@ -4358,11 +4362,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "努力",
-        "correct": false
-      },
-      {
-        "text": "种",
+        "text": "练习",
         "correct": false
       }
     ]
@@ -4371,20 +4371,20 @@ const quizData = [
     "question": "đường, kẹo",
     "answers": [
       {
-        "text": "洗手间",
-        "correct": false
-      },
-      {
-        "text": "上网",
-        "correct": false
-      },
-      {
-        "text": "需要",
+        "text": "主要",
         "correct": false
       },
       {
         "text": "糖",
         "correct": true
+      },
+      {
+        "text": "忘记",
+        "correct": false
+      },
+      {
+        "text": "秋",
+        "correct": false
       }
     ]
   },
@@ -4392,20 +4392,20 @@ const quizData = [
     "question": "đặc biệt",
     "answers": [
       {
-        "text": "月亮",
-        "correct": false
-      },
-      {
-        "text": "句子",
-        "correct": false
-      },
-      {
-        "text": "以为",
+        "text": "厨房",
         "correct": false
       },
       {
         "text": "特别",
         "correct": true
+      },
+      {
+        "text": "方便",
+        "correct": false
+      },
+      {
+        "text": "比较",
+        "correct": false
       }
     ]
   },
@@ -4413,11 +4413,7 @@ const quizData = [
     "question": "đau",
     "answers": [
       {
-        "text": "最近",
-        "correct": false
-      },
-      {
-        "text": "几乎",
+        "text": "认真",
         "correct": false
       },
       {
@@ -4425,7 +4421,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "鞋",
+        "text": "以后",
+        "correct": false
+      },
+      {
+        "text": "担心",
         "correct": false
       }
     ]
@@ -4434,7 +4434,7 @@ const quizData = [
     "question": "ngọt",
     "answers": [
       {
-        "text": "需要",
+        "text": "照顾",
         "correct": false
       },
       {
@@ -4442,11 +4442,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "空调",
+        "text": "新鲜",
         "correct": false
       },
       {
-        "text": "久",
+        "text": "刮风",
         "correct": false
       }
     ]
@@ -4455,19 +4455,19 @@ const quizData = [
     "question": "cành, mảnh, sợi, con",
     "answers": [
       {
+        "text": "铅笔",
+        "correct": false
+      },
+      {
         "text": "条",
         "correct": true
       },
       {
-        "text": "双",
+        "text": "关于",
         "correct": false
       },
       {
-        "text": "最近",
-        "correct": false
-      },
-      {
-        "text": "别人",
+        "text": "只",
         "correct": false
       }
     ]
@@ -4476,15 +4476,15 @@ const quizData = [
     "question": "nâng cao",
     "answers": [
       {
-        "text": "打扫",
+        "text": "成绩",
         "correct": false
       },
       {
-        "text": "换",
+        "text": "又",
         "correct": false
       },
       {
-        "text": "借",
+        "text": "树",
         "correct": false
       },
       {
@@ -4497,19 +4497,19 @@ const quizData = [
     "question": "thể thao, thế dục",
     "answers": [
       {
-        "text": "提高",
-        "correct": false
-      },
-      {
-        "text": "努力",
-        "correct": false
-      },
-      {
         "text": "体育",
         "correct": true
       },
       {
-        "text": "节日",
+        "text": "除了",
+        "correct": false
+      },
+      {
+        "text": "世界",
+        "correct": false
+      },
+      {
+        "text": "热情",
         "correct": false
       }
     ]
@@ -4518,19 +4518,19 @@ const quizData = [
     "question": "đồng nghiệp",
     "answers": [
       {
-        "text": "可爱",
-        "correct": false
-      },
-      {
         "text": "同事",
         "correct": true
       },
       {
-        "text": "完成",
+        "text": "几乎",
         "correct": false
       },
       {
-        "text": "脸",
+        "text": "站",
+        "correct": false
+      },
+      {
+        "text": "信",
         "correct": false
       }
     ]
@@ -4539,20 +4539,20 @@ const quizData = [
     "question": "đồng ý",
     "answers": [
       {
-        "text": "电子邮件",
-        "correct": false
-      },
-      {
-        "text": "新鲜",
-        "correct": false
-      },
-      {
-        "text": "空调",
+        "text": "成绩",
         "correct": false
       },
       {
         "text": "同意",
         "correct": true
+      },
+      {
+        "text": "比赛",
+        "correct": false
+      },
+      {
+        "text": "练习",
+        "correct": false
       }
     ]
   },
@@ -4560,19 +4560,19 @@ const quizData = [
     "question": "tóc",
     "answers": [
       {
+        "text": "发现",
+        "correct": false
+      },
+      {
+        "text": "特别",
+        "correct": false
+      },
+      {
         "text": "头发",
         "correct": true
       },
       {
-        "text": "新鲜",
-        "correct": false
-      },
-      {
-        "text": "祝",
-        "correct": false
-      },
-      {
-        "text": "愿意",
+        "text": "水平",
         "correct": false
       }
     ]
@@ -4581,11 +4581,7 @@ const quizData = [
     "question": "chân, đùi",
     "answers": [
       {
-        "text": "结婚",
-        "correct": false
-      },
-      {
-        "text": "图书馆",
+        "text": "春",
         "correct": false
       },
       {
@@ -4593,7 +4589,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "安静",
+        "text": "为",
+        "correct": false
+      },
+      {
+        "text": "双",
         "correct": false
       }
     ]
@@ -4602,15 +4602,15 @@ const quizData = [
     "question": "đột nhiên, chợt",
     "answers": [
       {
-        "text": "裤子",
+        "text": "包",
         "correct": false
       },
       {
-        "text": "角",
+        "text": "礼物",
         "correct": false
       },
       {
-        "text": "渴",
+        "text": "双",
         "correct": false
       },
       {
@@ -4623,20 +4623,20 @@ const quizData = [
     "question": "thư viện",
     "answers": [
       {
-        "text": "菜单",
-        "correct": false
-      },
-      {
-        "text": "花园",
-        "correct": false
-      },
-      {
-        "text": "然后",
-        "correct": false
-      },
-      {
         "text": "图书馆",
         "correct": true
+      },
+      {
+        "text": "段",
+        "correct": false
+      },
+      {
+        "text": "自己",
+        "correct": false
+      },
+      {
+        "text": "客人",
+        "correct": false
       }
     ]
   },
@@ -4644,20 +4644,20 @@ const quizData = [
     "question": "vạn, mười nghìn",
     "answers": [
       {
+        "text": "马",
+        "correct": false
+      },
+      {
+        "text": "借",
+        "correct": false
+      },
+      {
+        "text": "口",
+        "correct": false
+      },
+      {
         "text": "万",
         "correct": true
-      },
-      {
-        "text": "南",
-        "correct": false
-      },
-      {
-        "text": "旧",
-        "correct": false
-      },
-      {
-        "text": "文化",
-        "correct": false
       }
     ]
   },
@@ -4665,11 +4665,7 @@ const quizData = [
     "question": "bát, chén",
     "answers": [
       {
-        "text": "蓝",
-        "correct": false
-      },
-      {
-        "text": "突然",
+        "text": "带",
         "correct": false
       },
       {
@@ -4677,7 +4673,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "相同",
+        "text": "举行",
+        "correct": false
+      },
+      {
+        "text": "办法",
         "correct": false
       }
     ]
@@ -4686,20 +4686,20 @@ const quizData = [
     "question": "hoàn thành",
     "answers": [
       {
-        "text": "练习",
+        "text": "护照",
+        "correct": false
+      },
+      {
+        "text": "阿姨",
+        "correct": false
+      },
+      {
+        "text": "草",
         "correct": false
       },
       {
         "text": "完成",
         "correct": true
-      },
-      {
-        "text": "努力",
-        "correct": false
-      },
-      {
-        "text": "举行",
-        "correct": false
       }
     ]
   },
@@ -4707,15 +4707,372 @@ const quizData = [
     "question": "quên",
     "answers": [
       {
-        "text": "为",
-        "correct": false
-      },
-      {
         "text": "忘记",
         "correct": true
       },
       {
-        "text": "绿",
+        "text": "春",
+        "correct": false
+      },
+      {
+        "text": "蓝",
+        "correct": false
+      },
+      {
+        "text": "上网",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "vị, chỗ, nơi",
+    "answers": [
+      {
+        "text": "才",
+        "correct": false
+      },
+      {
+        "text": "相信",
+        "correct": false
+      },
+      {
+        "text": "眼镜",
+        "correct": false
+      },
+      {
+        "text": "位",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "hành, vì, để cho",
+    "answers": [
+      {
+        "text": "举行",
+        "correct": false
+      },
+      {
+        "text": "忘记",
+        "correct": false
+      },
+      {
+        "text": "为",
+        "correct": true
+      },
+      {
+        "text": "极",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "để, vì",
+    "answers": [
+      {
+        "text": "关于",
+        "correct": false
+      },
+      {
+        "text": "为了",
+        "correct": true
+      },
+      {
+        "text": "爱好",
+        "correct": false
+      },
+      {
+        "text": "班",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "văn hóa",
+    "answers": [
+      {
+        "text": "文化",
+        "correct": true
+      },
+      {
+        "text": "电梯",
+        "correct": false
+      },
+      {
+        "text": "碗",
+        "correct": false
+      },
+      {
+        "text": "一样",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "tây",
+    "answers": [
+      {
+        "text": "北京",
+        "correct": false
+      },
+      {
+        "text": "电子邮件",
+        "correct": false
+      },
+      {
+        "text": "西",
+        "correct": true
+      },
+      {
+        "text": "米",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "mùa hè",
+    "answers": [
+      {
+        "text": "夏",
+        "correct": true
+      },
+      {
+        "text": "要求",
+        "correct": false
+      },
+      {
+        "text": "主要",
+        "correct": false
+      },
+      {
+        "text": "跟",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "trước, tiên",
+    "answers": [
+      {
+        "text": "先",
+        "correct": true
+      },
+      {
+        "text": "专业",
+        "correct": false
+      },
+      {
+        "text": "热情",
+        "correct": false
+      },
+      {
+        "text": "舒服",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "giống",
+    "answers": [
+      {
+        "text": "周末",
+        "correct": false
+      },
+      {
+        "text": "邻居",
+        "correct": false
+      },
+      {
+        "text": "像",
+        "correct": true
+      },
+      {
+        "text": "主意",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "chuối tiêu",
+    "answers": [
+      {
+        "text": "香蕉",
+        "correct": true
+      },
+      {
+        "text": "安静",
+        "correct": false
+      },
+      {
+        "text": "关系",
+        "correct": false
+      },
+      {
+        "text": "一共",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "tương đồng, giống nhau",
+    "answers": [
+      {
+        "text": "相同",
+        "correct": true
+      },
+      {
+        "text": "半",
+        "correct": false
+      },
+      {
+        "text": "关于",
+        "correct": false
+      },
+      {
+        "text": "照相机",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "tin tưởng",
+    "answers": [
+      {
+        "text": "难过",
+        "correct": false
+      },
+      {
+        "text": "城市",
+        "correct": false
+      },
+      {
+        "text": "相信",
+        "correct": true
+      },
+      {
+        "text": "极",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "cẩn thận, coi chừng",
+    "answers": [
+      {
+        "text": "像",
+        "correct": false
+      },
+      {
+        "text": "小心",
+        "correct": true
+      },
+      {
+        "text": "关系",
+        "correct": false
+      },
+      {
+        "text": "总是",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "giầy",
+    "answers": [
+      {
+        "text": "鞋",
+        "correct": true
+      },
+      {
+        "text": "司机",
+        "correct": false
+      },
+      {
+        "text": "打算",
+        "correct": false
+      },
+      {
+        "text": "画",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "tập quán, thói quen",
+    "answers": [
+      {
+        "text": "习惯",
+        "correct": true
+      },
+      {
+        "text": "地铁",
+        "correct": false
+      },
+      {
+        "text": "半",
+        "correct": false
+      },
+      {
+        "text": "碗",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "thư",
+    "answers": [
+      {
+        "text": "刮风",
+        "correct": false
+      },
+      {
+        "text": "甜",
+        "correct": false
+      },
+      {
+        "text": "信",
+        "correct": true
+      },
+      {
+        "text": "北京",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "va li",
+    "answers": [
+      {
+        "text": "结束",
+        "correct": false
+      },
+      {
+        "text": "容易",
+        "correct": false
+      },
+      {
+        "text": "方便",
+        "correct": false
+      },
+      {
+        "text": "行李箱",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "hứng thú",
+    "answers": [
+      {
+        "text": "同事",
+        "correct": false
+      },
+      {
+        "text": "兴趣",
+        "correct": true
+      },
+      {
+        "text": "夏",
         "correct": false
       },
       {
@@ -4725,380 +5082,23 @@ const quizData = [
     ]
   },
   {
-    "question": "vị, chỗ, nơi",
+    "question": "tin tức",
     "answers": [
       {
-        "text": "万",
-        "correct": false
-      },
-      {
-        "text": "位",
+        "text": "新闻",
         "correct": true
-      },
-      {
-        "text": "腿",
-        "correct": false
-      },
-      {
-        "text": "厨房",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "hành, vì, để cho",
-    "answers": [
-      {
-        "text": "为",
-        "correct": true
-      },
-      {
-        "text": "花",
-        "correct": false
-      },
-      {
-        "text": "东",
-        "correct": false
-      },
-      {
-        "text": "包",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "để, vì",
-    "answers": [
-      {
-        "text": "还（动词）",
-        "correct": false
-      },
-      {
-        "text": "出差",
-        "correct": false
-      },
-      {
-        "text": "为了",
-        "correct": true
-      },
-      {
-        "text": "耳朵",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "văn hóa",
-    "answers": [
-      {
-        "text": "安静",
-        "correct": false
-      },
-      {
-        "text": "爱好",
-        "correct": false
-      },
-      {
-        "text": "文化",
-        "correct": true
-      },
-      {
-        "text": "特别",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "tây",
-    "answers": [
-      {
-        "text": "西",
-        "correct": true
-      },
-      {
-        "text": "久",
-        "correct": false
-      },
-      {
-        "text": "满意",
-        "correct": false
-      },
-      {
-        "text": "又",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "mùa hè",
-    "answers": [
-      {
-        "text": "发现",
-        "correct": false
-      },
-      {
-        "text": "夏",
-        "correct": true
-      },
-      {
-        "text": "影响",
-        "correct": false
-      },
-      {
-        "text": "香蕉",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "trước, tiên",
-    "answers": [
-      {
-        "text": "世界",
-        "correct": false
-      },
-      {
-        "text": "文化",
-        "correct": false
-      },
-      {
-        "text": "先",
-        "correct": true
-      },
-      {
-        "text": "祝",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "giống",
-    "answers": [
-      {
-        "text": "一边",
-        "correct": false
-      },
-      {
-        "text": "数学",
-        "correct": false
-      },
-      {
-        "text": "像",
-        "correct": true
-      },
-      {
-        "text": "照片",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "chuối tiêu",
-    "answers": [
-      {
-        "text": "盘子",
-        "correct": false
-      },
-      {
-        "text": "香蕉",
-        "correct": true
-      },
-      {
-        "text": "站",
-        "correct": false
       },
       {
         "text": "打扫",
         "correct": false
-      }
-    ]
-  },
-  {
-    "question": "tương đồng, giống nhau",
-    "answers": [
-      {
-        "text": "一直",
-        "correct": false
       },
-      {
-        "text": "舒服",
-        "correct": false
-      },
-      {
-        "text": "还是",
-        "correct": false
-      },
-      {
-        "text": "相同",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "question": "tin tưởng",
-    "answers": [
-      {
-        "text": "带",
-        "correct": false
-      },
-      {
-        "text": "主意",
-        "correct": false
-      },
-      {
-        "text": "相信",
-        "correct": true
-      },
-      {
-        "text": "满意",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "cẩn thận, coi chừng",
-    "answers": [
-      {
-        "text": "小心",
-        "correct": true
-      },
-      {
-        "text": "鸟",
-        "correct": false
-      },
-      {
-        "text": "检查",
-        "correct": false
-      },
-      {
-        "text": "奶奶",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "giầy",
-    "answers": [
-      {
-        "text": "万",
-        "correct": false
-      },
-      {
-        "text": "鞋",
-        "correct": true
-      },
-      {
-        "text": "筷子",
-        "correct": false
-      },
-      {
-        "text": "音乐",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "tập quán, thói quen",
-    "answers": [
       {
         "text": "腿",
         "correct": false
       },
       {
-        "text": "新闻",
+        "text": "一般",
         "correct": false
-      },
-      {
-        "text": "习惯",
-        "correct": true
-      },
-      {
-        "text": "秋",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "thư",
-    "answers": [
-      {
-        "text": "必须",
-        "correct": false
-      },
-      {
-        "text": "信",
-        "correct": true
-      },
-      {
-        "text": "举行",
-        "correct": false
-      },
-      {
-        "text": "放",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "va li",
-    "answers": [
-      {
-        "text": "聪明",
-        "correct": false
-      },
-      {
-        "text": "更",
-        "correct": false
-      },
-      {
-        "text": "行李箱",
-        "correct": true
-      },
-      {
-        "text": "盘子",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "hứng thú",
-    "answers": [
-      {
-        "text": "宾馆",
-        "correct": false
-      },
-      {
-        "text": "兴趣",
-        "correct": true
-      },
-      {
-        "text": "脚",
-        "correct": false
-      },
-      {
-        "text": "打算",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "tin tức",
-    "answers": [
-      {
-        "text": "花园",
-        "correct": false
-      },
-      {
-        "text": "厨房",
-        "correct": false
-      },
-      {
-        "text": "眼镜",
-        "correct": false
-      },
-      {
-        "text": "新闻",
-        "correct": true
       }
     ]
   },
@@ -5106,20 +5106,20 @@ const quizData = [
     "question": "tươi, tươi mới",
     "answers": [
       {
-        "text": "练习",
+        "text": "跟",
         "correct": false
       },
       {
-        "text": "节目",
+        "text": "一直",
+        "correct": false
+      },
+      {
+        "text": "才",
         "correct": false
       },
       {
         "text": "新鲜",
         "correct": true
-      },
-      {
-        "text": "成绩",
-        "correct": false
       }
     ]
   },
@@ -5131,15 +5131,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "然后",
+        "text": "极",
         "correct": false
       },
       {
-        "text": "双",
+        "text": "最近",
         "correct": false
       },
       {
-        "text": "还是",
+        "text": "胖",
         "correct": false
       }
     ]
@@ -5148,7 +5148,7 @@ const quizData = [
     "question": "nhà vệ sinh",
     "answers": [
       {
-        "text": "打算",
+        "text": "打扫",
         "correct": false
       },
       {
@@ -5156,11 +5156,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "离开",
+        "text": "练习",
         "correct": false
       },
       {
-        "text": "刚才",
+        "text": "新闻",
         "correct": false
       }
     ]
@@ -5169,20 +5169,20 @@ const quizData = [
     "question": "tắm",
     "answers": [
       {
-        "text": "爱好",
-        "correct": false
-      },
-      {
-        "text": "照顾",
-        "correct": false
-      },
-      {
-        "text": "为了",
+        "text": "最近",
         "correct": false
       },
       {
         "text": "洗澡",
         "correct": true
+      },
+      {
+        "text": "街道",
+        "correct": false
+      },
+      {
+        "text": "愿意",
+        "correct": false
       }
     ]
   },
@@ -5190,20 +5190,20 @@ const quizData = [
     "question": "tuyển chọn, chọn",
     "answers": [
       {
-        "text": "图书馆",
-        "correct": false
-      },
-      {
-        "text": "见面",
-        "correct": false
-      },
-      {
-        "text": "除了",
+        "text": "马",
         "correct": false
       },
       {
         "text": "选择",
         "correct": true
+      },
+      {
+        "text": "地铁",
+        "correct": false
+      },
+      {
+        "text": "表示",
+        "correct": false
       }
     ]
   },
@@ -5211,15 +5211,15 @@ const quizData = [
     "question": "cần",
     "answers": [
       {
-        "text": "而且",
+        "text": "附近",
         "correct": false
       },
       {
-        "text": "锻炼",
+        "text": "邻居",
         "correct": false
       },
       {
-        "text": "结束",
+        "text": "安静",
         "correct": false
       },
       {
@@ -5232,19 +5232,19 @@ const quizData = [
     "question": "kính mắt",
     "answers": [
       {
+        "text": "需要",
+        "correct": false
+      },
+      {
         "text": "眼镜",
         "correct": true
       },
       {
-        "text": "以为",
+        "text": "地方",
         "correct": false
       },
       {
-        "text": "其他",
-        "correct": false
-      },
-      {
-        "text": "辆",
+        "text": "饿",
         "correct": false
       }
     ]
@@ -5253,19 +5253,19 @@ const quizData = [
     "question": "yêu cầu",
     "answers": [
       {
+        "text": "护照",
+        "correct": false
+      },
+      {
         "text": "要求",
         "correct": true
       },
       {
-        "text": "黑板",
+        "text": "或者",
         "correct": false
       },
       {
-        "text": "辆",
-        "correct": false
-      },
-      {
-        "text": "发烧",
+        "text": "需要",
         "correct": false
       }
     ]
@@ -5274,20 +5274,20 @@ const quizData = [
     "question": "ông nội",
     "answers": [
       {
+        "text": "感冒",
+        "correct": false
+      },
+      {
+        "text": "兴趣",
+        "correct": false
+      },
+      {
+        "text": "条",
+        "correct": false
+      },
+      {
         "text": "爷爷",
         "correct": true
-      },
-      {
-        "text": "迟到",
-        "correct": false
-      },
-      {
-        "text": "年轻",
-        "correct": false
-      },
-      {
-        "text": "以为",
-        "correct": false
       }
     ]
   },
@@ -5295,19 +5295,19 @@ const quizData = [
     "question": "bình thường, phổ biến",
     "answers": [
       {
+        "text": "明白",
+        "correct": false
+      },
+      {
+        "text": "当然",
+        "correct": false
+      },
+      {
         "text": "一般",
         "correct": true
       },
       {
-        "text": "聪明",
-        "correct": false
-      },
-      {
-        "text": "过（助）",
-        "correct": false
-      },
-      {
-        "text": "奶奶",
+        "text": "音乐",
         "correct": false
       }
     ]
@@ -5316,20 +5316,20 @@ const quizData = [
     "question": "một bên, một mặt, vừa",
     "answers": [
       {
-        "text": "熊猫",
+        "text": "作业",
         "correct": false
       },
       {
-        "text": "万",
-        "correct": false
-      },
-      {
-        "text": "照顾",
+        "text": "专业",
         "correct": false
       },
       {
         "text": "一边",
         "correct": true
+      },
+      {
+        "text": "面条",
+        "correct": false
       }
     ]
   },
@@ -5337,19 +5337,19 @@ const quizData = [
     "question": "nhất định, chính xác",
     "answers": [
       {
+        "text": "绿",
+        "correct": false
+      },
+      {
+        "text": "数学",
+        "correct": false
+      },
+      {
         "text": "一定",
         "correct": true
       },
       {
-        "text": "花",
-        "correct": false
-      },
-      {
-        "text": "虽然",
-        "correct": false
-      },
-      {
-        "text": "生气",
+        "text": "口",
         "correct": false
       }
     ]
@@ -5358,19 +5358,19 @@ const quizData = [
     "question": "tổng cộng",
     "answers": [
       {
+        "text": "害怕",
+        "correct": false
+      },
+      {
+        "text": "脸",
+        "correct": false
+      },
+      {
         "text": "一共",
         "correct": true
       },
       {
-        "text": "为了",
-        "correct": false
-      },
-      {
-        "text": "北京",
-        "correct": false
-      },
-      {
-        "text": "照片",
+        "text": "根据",
         "correct": false
       }
     ]
@@ -5379,15 +5379,15 @@ const quizData = [
     "question": "sau này, sau khi",
     "answers": [
       {
-        "text": "差",
+        "text": "马上",
         "correct": false
       },
       {
-        "text": "客人",
+        "text": "班",
         "correct": false
       },
       {
-        "text": "爱好",
+        "text": "认为",
         "correct": false
       },
       {
@@ -5400,20 +5400,20 @@ const quizData = [
     "question": "một lát, một chốc",
     "answers": [
       {
-        "text": "还是",
-        "correct": false
-      },
-      {
-        "text": "蓝",
-        "correct": false
-      },
-      {
-        "text": "黑板",
-        "correct": false
-      },
-      {
         "text": "一会儿",
         "correct": true
+      },
+      {
+        "text": "见面",
+        "correct": false
+      },
+      {
+        "text": "而且",
+        "correct": false
+      },
+      {
+        "text": "打扫",
+        "correct": false
       }
     ]
   },
@@ -5421,11 +5421,11 @@ const quizData = [
     "question": "nên, phải",
     "answers": [
       {
-        "text": "爬山",
+        "text": "宾馆",
         "correct": false
       },
       {
-        "text": "辆",
+        "text": "花",
         "correct": false
       },
       {
@@ -5433,7 +5433,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "短",
+        "text": "为了",
         "correct": false
       }
     ]
@@ -5442,19 +5442,19 @@ const quizData = [
     "question": "ảnh hưởng",
     "answers": [
       {
-        "text": "打扫",
-        "correct": false
-      },
-      {
         "text": "影响",
         "correct": true
       },
       {
-        "text": "差",
+        "text": "叔叔",
         "correct": false
       },
       {
-        "text": "宾馆",
+        "text": "一共",
+        "correct": false
+      },
+      {
+        "text": "关",
         "correct": false
       }
     ]
@@ -5463,20 +5463,20 @@ const quizData = [
     "question": "ngân hàng",
     "answers": [
       {
+        "text": "复习",
+        "correct": false
+      },
+      {
+        "text": "段",
+        "correct": false
+      },
+      {
+        "text": "春",
+        "correct": false
+      },
+      {
         "text": "银行",
         "correct": true
-      },
-      {
-        "text": "使",
-        "correct": false
-      },
-      {
-        "text": "面包",
-        "correct": false
-      },
-      {
-        "text": "以后",
-        "correct": false
       }
     ]
   },
@@ -5484,20 +5484,20 @@ const quizData = [
     "question": "âm nhạc",
     "answers": [
       {
-        "text": "兴趣",
+        "text": "其他",
         "correct": false
       },
       {
-        "text": "借",
-        "correct": false
-      },
-      {
-        "text": "甜",
+        "text": "护照",
         "correct": false
       },
       {
         "text": "音乐",
         "correct": true
+      },
+      {
+        "text": "特别",
+        "correct": false
       }
     ]
   },
@@ -5505,7 +5505,7 @@ const quizData = [
     "question": "trước kia, trước đây",
     "answers": [
       {
-        "text": "半",
+        "text": "打算",
         "correct": false
       },
       {
@@ -5513,11 +5513,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "除了",
+        "text": "以后",
         "correct": false
       },
       {
-        "text": "瘦",
+        "text": "甜",
         "correct": false
       }
     ]
@@ -5526,20 +5526,20 @@ const quizData = [
     "question": "cho rằng, cho là",
     "answers": [
       {
-        "text": "地铁",
+        "text": "字典",
         "correct": false
       },
       {
-        "text": "记得",
+        "text": "爬山",
+        "correct": false
+      },
+      {
+        "text": "一共",
         "correct": false
       },
       {
         "text": "以为",
         "correct": true
-      },
-      {
-        "text": "把",
-        "correct": false
       }
     ]
   },
@@ -5547,15 +5547,15 @@ const quizData = [
     "question": "giống nhau",
     "answers": [
       {
-        "text": "差",
+        "text": "洗澡",
         "correct": false
       },
       {
-        "text": "年轻",
+        "text": "注意",
         "correct": false
       },
       {
-        "text": "使",
+        "text": "马上",
         "correct": false
       },
       {
@@ -5568,19 +5568,19 @@ const quizData = [
     "question": "mãi, suốt, liên tục, cứ",
     "answers": [
       {
-        "text": "过（助）",
-        "correct": false
-      },
-      {
         "text": "一直",
         "correct": true
       },
       {
-        "text": "一共",
+        "text": "同事",
         "correct": false
       },
       {
-        "text": "教",
+        "text": "拿",
+        "correct": false
+      },
+      {
+        "text": "刷牙",
         "correct": false
       }
     ]
@@ -5589,19 +5589,19 @@ const quizData = [
     "question": "dùng",
     "answers": [
       {
-        "text": "环境",
-        "correct": false
-      },
-      {
         "text": "用",
         "correct": true
       },
       {
-        "text": "主要",
+        "text": "文化",
         "correct": false
       },
       {
-        "text": "兴趣",
+        "text": "月亮",
+        "correct": false
+      },
+      {
+        "text": "专业",
         "correct": false
       }
     ]
@@ -5610,7 +5610,11 @@ const quizData = [
     "question": "lại, vừa... lại",
     "answers": [
       {
-        "text": "饱",
+        "text": "提高",
+        "correct": false
+      },
+      {
+        "text": "以后",
         "correct": false
       },
       {
@@ -5618,11 +5622,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "办法",
-        "correct": false
-      },
-      {
-        "text": "敢",
+        "text": "草",
         "correct": false
       }
     ]
@@ -5631,20 +5631,20 @@ const quizData = [
     "question": "nổi tiếng",
     "answers": [
       {
+        "text": "祝",
+        "correct": false
+      },
+      {
+        "text": "衬衫",
+        "correct": false
+      },
+      {
+        "text": "楼",
+        "correct": false
+      },
+      {
         "text": "有名",
         "correct": true
-      },
-      {
-        "text": "新闻",
-        "correct": false
-      },
-      {
-        "text": "站",
-        "correct": false
-      },
-      {
-        "text": "眼镜",
-        "correct": false
       }
     ]
   },
@@ -5652,15 +5652,15 @@ const quizData = [
     "question": "trò chơi",
     "answers": [
       {
-        "text": "裤子",
+        "text": "骑",
         "correct": false
       },
       {
-        "text": "见面",
+        "text": "甜",
         "correct": false
       },
       {
-        "text": "过去",
+        "text": "机会",
         "correct": false
       },
       {
@@ -5673,20 +5673,20 @@ const quizData = [
     "question": "bằng lòng, mong muốn",
     "answers": [
       {
-        "text": "重要",
+        "text": "明白",
         "correct": false
       },
       {
-        "text": "其他",
-        "correct": false
-      },
-      {
-        "text": "容易",
+        "text": "厨房",
         "correct": false
       },
       {
         "text": "愿意",
         "correct": true
+      },
+      {
+        "text": "层",
+        "correct": false
       }
     ]
   },
@@ -5694,19 +5694,19 @@ const quizData = [
     "question": "gặp phải",
     "answers": [
       {
+        "text": "可爱",
+        "correct": false
+      },
+      {
+        "text": "衬衫",
+        "correct": false
+      },
+      {
         "text": "遇到",
         "correct": true
       },
       {
-        "text": "关系",
-        "correct": false
-      },
-      {
-        "text": "先",
-        "correct": false
-      },
-      {
-        "text": "自然",
+        "text": "跟",
         "correct": false
       }
     ]
@@ -5715,20 +5715,20 @@ const quizData = [
     "question": "mặt trăng",
     "answers": [
       {
+        "text": "夏",
+        "correct": false
+      },
+      {
+        "text": "以后",
+        "correct": false
+      },
+      {
+        "text": "聪明",
+        "correct": false
+      },
+      {
         "text": "月亮",
         "correct": true
-      },
-      {
-        "text": "只(量）",
-        "correct": false
-      },
-      {
-        "text": "结婚",
-        "correct": false
-      },
-      {
-        "text": "坏",
-        "correct": false
       }
     ]
   },
@@ -5736,19 +5736,19 @@ const quizData = [
     "question": "đứng, trạm",
     "answers": [
       {
+        "text": "南",
+        "correct": false
+      },
+      {
+        "text": "难过",
+        "correct": false
+      },
+      {
         "text": "站",
         "correct": true
       },
       {
-        "text": "搬",
-        "correct": false
-      },
-      {
-        "text": "对(介词）",
-        "correct": false
-      },
-      {
-        "text": "数学",
+        "text": "鸟",
         "correct": false
       }
     ]
@@ -5757,20 +5757,20 @@ const quizData = [
     "question": "sinh trưởng, lớn lên",
     "answers": [
       {
-        "text": "地",
-        "correct": false
-      },
-      {
-        "text": "应该",
-        "correct": false
-      },
-      {
-        "text": "超市",
+        "text": "绿",
         "correct": false
       },
       {
         "text": "长(动）",
         "correct": true
+      },
+      {
+        "text": "邻居",
+        "correct": false
+      },
+      {
+        "text": "终于",
+        "correct": false
       }
     ]
   },
@@ -5778,11 +5778,11 @@ const quizData = [
     "question": "chiếu cố,chăm sóc",
     "answers": [
       {
-        "text": "动物",
+        "text": "只(量）",
         "correct": false
       },
       {
-        "text": "爱好",
+        "text": "鸟",
         "correct": false
       },
       {
@@ -5790,7 +5790,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "阿姨",
+        "text": "忘记",
         "correct": false
       }
     ]
@@ -5799,20 +5799,20 @@ const quizData = [
     "question": "lo lắng, sốt ruột",
     "answers": [
       {
-        "text": "祝",
+        "text": "爱好",
+        "correct": false
+      },
+      {
+        "text": "同事",
+        "correct": false
+      },
+      {
+        "text": "树",
         "correct": false
       },
       {
         "text": "着急",
         "correct": true
-      },
-      {
-        "text": "提高",
-        "correct": false
-      },
-      {
-        "text": "打扫",
-        "correct": false
       }
     ]
   },
@@ -5820,20 +5820,20 @@ const quizData = [
     "question": "bức hình, ảnh",
     "answers": [
       {
-        "text": "办公室",
+        "text": "遇到",
+        "correct": false
+      },
+      {
+        "text": "表示",
+        "correct": false
+      },
+      {
+        "text": "电梯",
         "correct": false
       },
       {
         "text": "照片",
         "correct": true
-      },
-      {
-        "text": "哭",
-        "correct": false
-      },
-      {
-        "text": "年轻",
-        "correct": false
       }
     ]
   },
@@ -5841,7 +5841,7 @@ const quizData = [
     "question": "máy ảnh",
     "answers": [
       {
-        "text": "米",
+        "text": "只",
         "correct": false
       },
       {
@@ -5849,11 +5849,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "照片",
+        "text": "突然",
         "correct": false
       },
       {
-        "text": "刷牙",
+        "text": "一定",
         "correct": false
       }
     ]
@@ -5862,20 +5862,20 @@ const quizData = [
     "question": "chỉ (có)",
     "answers": [
       {
-        "text": "瘦",
-        "correct": false
-      },
-      {
-        "text": "一样",
-        "correct": false
-      },
-      {
-        "text": "解决",
+        "text": "楼",
         "correct": false
       },
       {
         "text": "只",
         "correct": true
+      },
+      {
+        "text": "坏",
+        "correct": false
+      },
+      {
+        "text": "瘦",
+        "correct": false
       }
     ]
   },
@@ -5883,20 +5883,20 @@ const quizData = [
     "question": "con",
     "answers": [
       {
+        "text": "同事",
+        "correct": false
+      },
+      {
+        "text": "啤酒",
+        "correct": false
+      },
+      {
+        "text": "旧",
+        "correct": false
+      },
+      {
         "text": "只(量）",
         "correct": true
-      },
-      {
-        "text": "护照",
-        "correct": false
-      },
-      {
-        "text": "作业",
-        "correct": false
-      },
-      {
-        "text": "办公室",
-        "correct": false
       }
     ]
   },
@@ -5904,11 +5904,11 @@ const quizData = [
     "question": "lọai, kiểu",
     "answers": [
       {
-        "text": "灯",
+        "text": "超市",
         "correct": false
       },
       {
-        "text": "打算",
+        "text": "感冒",
         "correct": false
       },
       {
@@ -5916,7 +5916,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "经济",
+        "text": "只",
         "correct": false
       }
     ]
@@ -5925,20 +5925,20 @@ const quizData = [
     "question": "Chính giữa",
     "answers": [
       {
-        "text": "骑",
+        "text": "帽子",
         "correct": false
       },
       {
-        "text": "声音",
-        "correct": false
-      },
-      {
-        "text": "字典",
+        "text": "祝",
         "correct": false
       },
       {
         "text": "中间",
         "correct": true
+      },
+      {
+        "text": "聪明",
+        "correct": false
       }
     ]
   },
@@ -5950,15 +5950,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "动物",
+        "text": "作业",
         "correct": false
       },
       {
-        "text": "游戏",
+        "text": "半",
         "correct": false
       },
       {
-        "text": "冰箱",
+        "text": "还（动词）",
         "correct": false
       }
     ]
@@ -5967,19 +5967,19 @@ const quizData = [
     "question": "cuối cùng",
     "answers": [
       {
-        "text": "街道",
-        "correct": false
-      },
-      {
-        "text": "腿",
-        "correct": false
-      },
-      {
         "text": "终于",
         "correct": true
       },
       {
-        "text": "疼",
+        "text": "裙子",
+        "correct": false
+      },
+      {
+        "text": "地图",
+        "correct": false
+      },
+      {
+        "text": "关",
         "correct": false
       }
     ]
@@ -5988,15 +5988,15 @@ const quizData = [
     "question": "cuối tuần",
     "answers": [
       {
-        "text": "举行",
+        "text": "刷牙",
         "correct": false
       },
       {
-        "text": "西",
+        "text": "舒服",
         "correct": false
       },
       {
-        "text": "可爱",
+        "text": "当然",
         "correct": false
       },
       {
@@ -6009,11 +6009,7 @@ const quizData = [
     "question": "chúc, chúc mừng",
     "answers": [
       {
-        "text": "又",
-        "correct": false
-      },
-      {
-        "text": "重要",
+        "text": "地铁",
         "correct": false
       },
       {
@@ -6021,7 +6017,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "害怕",
+        "text": "客人",
+        "correct": false
+      },
+      {
+        "text": "参加",
         "correct": false
       }
     ]
@@ -6030,20 +6030,20 @@ const quizData = [
     "question": "chuyên môn, chuyên",
     "answers": [
       {
-        "text": "认真",
-        "correct": false
-      },
-      {
-        "text": "愿意",
-        "correct": false
-      },
-      {
-        "text": "耳朵",
+        "text": "专业",
         "correct": false
       },
       {
         "text": "专门",
         "correct": true
+      },
+      {
+        "text": "锻炼",
+        "correct": false
+      },
+      {
+        "text": "双",
+        "correct": false
       }
     ]
   },
@@ -6051,20 +6051,20 @@ const quizData = [
     "question": "chuyên ngành, chuyên nghiệp",
     "answers": [
       {
-        "text": "中间",
+        "text": "体育",
+        "correct": false
+      },
+      {
+        "text": "衬衫",
+        "correct": false
+      },
+      {
+        "text": "迟到",
         "correct": false
       },
       {
         "text": "专业",
         "correct": true
-      },
-      {
-        "text": "小心",
-        "correct": false
-      },
-      {
-        "text": "关于",
-        "correct": false
       }
     ]
   },
@@ -6072,20 +6072,20 @@ const quizData = [
     "question": "chủ yếu, chính",
     "answers": [
       {
-        "text": "练习",
+        "text": "瘦",
         "correct": false
       },
       {
-        "text": "经过",
-        "correct": false
-      },
-      {
-        "text": "面包",
+        "text": "动物",
         "correct": false
       },
       {
         "text": "主要",
         "correct": true
+      },
+      {
+        "text": "洗手间",
+        "correct": false
       }
     ]
   },
@@ -6093,7 +6093,7 @@ const quizData = [
     "question": "chú ý",
     "answers": [
       {
-        "text": "还（动词）",
+        "text": "裙子",
         "correct": false
       },
       {
@@ -6101,11 +6101,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "体育",
+        "text": "重要",
         "correct": false
       },
       {
-        "text": "图书馆",
+        "text": "坏",
         "correct": false
       }
     ]
@@ -6118,15 +6118,15 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "为了",
+        "text": "被",
         "correct": false
       },
       {
-        "text": "作业",
+        "text": "礼物",
         "correct": false
       },
       {
-        "text": "米",
+        "text": "关系",
         "correct": false
       }
     ]
@@ -6135,19 +6135,19 @@ const quizData = [
     "question": "từ điển",
     "answers": [
       {
+        "text": "低",
+        "correct": false
+      },
+      {
+        "text": "矮",
+        "correct": false
+      },
+      {
         "text": "字典",
         "correct": true
       },
       {
-        "text": "街道",
-        "correct": false
-      },
-      {
-        "text": "小心",
-        "correct": false
-      },
-      {
-        "text": "教",
+        "text": "成绩",
         "correct": false
       }
     ]
@@ -6156,7 +6156,7 @@ const quizData = [
     "question": "tự mình",
     "answers": [
       {
-        "text": "超市",
+        "text": "厨房",
         "correct": false
       },
       {
@@ -6164,11 +6164,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "打扫",
+        "text": "极",
         "correct": false
       },
       {
-        "text": "敢",
+        "text": "花园",
         "correct": false
       }
     ]
@@ -6177,20 +6177,20 @@ const quizData = [
     "question": "tự nhiên, thiên nhiên",
     "answers": [
       {
-        "text": "葡萄",
+        "text": "放心",
         "correct": false
       },
       {
-        "text": "像",
-        "correct": false
-      },
-      {
-        "text": "坏",
+        "text": "讲",
         "correct": false
       },
       {
         "text": "自然",
         "correct": true
+      },
+      {
+        "text": "完成",
+        "correct": false
       }
     ]
   },
@@ -6198,7 +6198,11 @@ const quizData = [
     "question": "luôn luôn, lúc nào cũng",
     "answers": [
       {
-        "text": "数学",
+        "text": "关心",
+        "correct": false
+      },
+      {
+        "text": "还（动词）",
         "correct": false
       },
       {
@@ -6206,11 +6210,7 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "超市",
-        "correct": false
-      },
-      {
-        "text": "认真",
+        "text": "坏",
         "correct": false
       }
     ]
@@ -6219,19 +6219,19 @@ const quizData = [
     "question": "gần đây, dạo này",
     "answers": [
       {
-        "text": "爱好",
-        "correct": false
-      },
-      {
-        "text": "瘦",
-        "correct": false
-      },
-      {
         "text": "最近",
         "correct": true
       },
       {
-        "text": "世界",
+        "text": "楼",
+        "correct": false
+      },
+      {
+        "text": "打扫",
+        "correct": false
+      },
+      {
+        "text": "秋",
         "correct": false
       }
     ]
@@ -6240,7 +6240,7 @@ const quizData = [
     "question": "Lượng từ tòa nhà...",
     "answers": [
       {
-        "text": "刷牙",
+        "text": "电子邮件",
         "correct": false
       },
       {
@@ -6248,11 +6248,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "面条",
+        "text": "难过",
         "correct": false
       },
       {
-        "text": "相信",
+        "text": "司机",
         "correct": false
       }
     ]
@@ -6261,7 +6261,7 @@ const quizData = [
     "question": "bài tập",
     "answers": [
       {
-        "text": "护照",
+        "text": "饿",
         "correct": false
       },
       {
@@ -6269,11 +6269,11 @@ const quizData = [
         "correct": true
       },
       {
-        "text": "当然",
+        "text": "面条",
         "correct": false
       },
       {
-        "text": "提高",
+        "text": "记得",
         "correct": false
       }
     ]
@@ -6282,20 +6282,20 @@ const quizData = [
     "question": "tác dụng",
     "answers": [
       {
-        "text": "而且",
-        "correct": false
-      },
-      {
-        "text": "先",
-        "correct": false
-      },
-      {
-        "text": "画",
+        "text": "厨房",
         "correct": false
       },
       {
         "text": "作用",
         "correct": true
+      },
+      {
+        "text": "包",
+        "correct": false
+      },
+      {
+        "text": "奇怪",
+        "correct": false
       }
     ]
   }
