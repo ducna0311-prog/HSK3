@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+    line-height: 1.6;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+#quiz-container {
+    max-width: 700px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.question-block {
+    margin-bottom: 25px;
+}
+
+.question-text {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.option {
+    display: block;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+#submit-btn {
+    display: block;
+    margin: 20px auto;
+    padding: 12px 25px;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+#submit-btn:hover {
+    background-color: #0056b3;
+}
+
+#results-container {
+    text-align: center;
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+/* --- Định dạng cho đáp án ĐÚNG (màu xanh) --- */
+.correct {
+    background-color: #d4edda; /* Màu xanh lá nhạt */
+    border: 1px solid #c3e6cb;
+    color: #155724;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+/* --- Định dạng cho đáp án SAI (màu đỏ) --- */
+.incorrect {
+    background-color: #f8d7da; /* Màu đỏ nhạt */
+    border: 1px solid #f5c6cb;
+    color: #721c24;
+    padding: 5px;
+    border-radius: 5px;
+}
